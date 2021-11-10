@@ -1,0 +1,1585 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head><meta charset='utf-8'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1432808943308399"
+     crossorigin="anonymous"></script>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='Tanam shell backdoor di Android menggunakan metasploit'><title>cara menginstal metasploit</title>
+
+<link rel='canonical' href='https://maidey.github.io/blog/artikel/cara-menginstal-metasploit/'>
+
+<link rel="stylesheet" href="/blog/scss/style.min.css">
+<meta property='og:title' content='cara menginstal metasploit'>
+<meta property='og:description' content='Tanam shell backdoor di Android menggunakan metasploit'>
+<meta property='og:url' content='https://maidey.github.io/blog/artikel/cara-menginstal-metasploit/'>
+<meta property='og:site_name' content='Hack&#39;s jurnal'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='metasploit' /><meta property='article:tag' content='shell' /><meta property='article:tag' content='termux' /><meta property='article:published_time' content='2021-10-14T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2021-10-14T00:00:00&#43;00:00'/><meta property='og:image' content='https://maidey.github.io/blog/artikel/cara-menginstal-metasploit/20211015_203930.jpg' />
+<meta name="twitter:title" content="cara menginstal metasploit">
+<meta name="twitter:description" content="Tanam shell backdoor di Android menggunakan metasploit"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://maidey.github.io/blog/artikel/cara-menginstal-metasploit/20211015_203930.jpg' />
+    <link rel="shortcut icon" href="img/fav.ico" />
+<link rel="alternate" type="application/rss+xml" href="https://maidey.github.io/index.xml" title="hack's">
+
+
+    </head>
+    <body class="
+    article-page has-toc
+">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex 
+    
+        extended
+    
+">
+    
+        <div id="article-toolbar">
+            <a href="https://maidey.github.io/blog" class="back-home">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="15 6 9 12 15 18" />
+</svg>
+
+
+
+                <span>Kembali</span>
+            </a>
+        </div>
+    
+<main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/blog/artikel/cara-menginstal-metasploit/">
+                <img src="/blog/artikel/cara-menginstal-metasploit/20211015_203930_hu0f81677ca53754b440b5703bcb9bd355_223946_800x0_resize_q75_box.jpg"
+                        srcset="/blog/artikel/cara-menginstal-metasploit/20211015_203930_hu0f81677ca53754b440b5703bcb9bd355_223946_800x0_resize_q75_box.jpg 800w, /blog/artikel/cara-menginstal-metasploit/20211015_203930_hu0f81677ca53754b440b5703bcb9bd355_223946_1600x0_resize_q75_box.jpg 1600w"
+                        width="800" 
+                        height="450" 
+                        loading="lazy"
+                        alt="Featured image of post cara menginstal metasploit" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/blog/categories/tutorial/" >
+                Tutorial
+            </a>
+        
+    </header>
+    
+
+    <h2 class="article-title">
+        <a href="/blog/artikel/cara-menginstal-metasploit/">cara menginstal metasploit</a>
+    </h2>
+
+    
+    <h3 class="article-subtitle">
+        Tanam shell backdoor di Android menggunakan metasploit
+    </h3>
+    
+
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Oct 14, 2021</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    Waktu Membaca: 24 menit
+                </time>
+            </div>
+        
+    </footer>
+    
+</div>
+</header>
+
+    <section class="article-content">
+    <p>Jangan lupa bergabung dengan channel telegram, klik <a class="link" href="https://t.me/hacks_jurnal"  target="_blank" rel="noopener"
+    >DISINI</a> atau <a class="link" href="https://t.me/hacks_jurnal"  target="_blank" rel="noopener"
+    >@hacks_jurnal</a></p>
+<p>Beberapa waktu yang lalu banyak sekali yang request Di telegram💬 untuk cara install metasploit dan menggunakannya. BTW kalau anda mau request silahkan hubungi telegram kita <a class="link" href="https://t.me/Mogionc"  target="_blank" rel="noopener"
+    >@mogionc</a> <code>https://t.me/Mogionc</code></p>
+<p>Saya akan membagi ini menjadi 2(dua) artikel , pertama artikel untuk cara menginstal dan yang kedua cara untuk menggunakannya.</p>
+<p>Tanpa banyak basa-basi saya mulai saja tutorialnya, silahkan ikuti langkah-langkah dibawah ini⬇️.</p>
+<h1 id="install-metasplit">install metaspl☢️it</h1>
+<h3 id="upgrade-dulu-termux-kesayangan-anda">Upgrade dulu termux kesayangan anda</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">
+
+pkg update <span style="color:#f92672">&amp;&amp;</span> pkg upgrade -y
+
+
+</code></pre></div><p>Lalu install pemeran utamanya:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">
+
+$ pkg install wget
+
+$ wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh
+
+$ chmod +x metasploit.sh
+
+$ ./metasploit.sh
+
+
+</code></pre></div><blockquote>
+<p>Proses install akan lumayan lama jadi pastikan baterai hp anda masih banyak.</p>
+</blockquote>
+<p>Jika proses install sukses akan muncul log seperti ini:</p>
+<details markdown='1'><summary>Terminal LOG</summary>
++-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
+    |M|e|t|a|s|p|l|o|i|t| |i|n| |T|e|r|m|u|x|
+    +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+                          +-+-+ +-+-+-+-+-+-+-+-+-+-+
+            |b|y| |G|u|s|h|m|a|z|u|k|o|                                +-+-+ +-+-+-+-+-+-+-+-+-+-+
+<h2 id="--loading-">=======================  Loading&hellip; =======================</h2>
+<p>============ *** Dependencies installation&hellip; =============
+deb <a class="link" href="https://github.com/gushmazuko/metasploit_in_termux/raw/master"  target="_blank" rel="noopener"
+    >https://github.com/gushmazuko/metasploit_in_termux/raw/master</a> gushmazuko main
+Checking availability of current mirror: ok
+Reading package lists&hellip; Done
+Building dependency tree&hellip; Done
+Reading state information&hellip; Done                          gnupg is already the newest version (2.3.2-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+8�H3�����N�l�]MW�=l���                                                        C�8�˷,�}սP�p�        ��MPV&quot;�����6<code>bH�ػ���K0�k~v�d�j֙Qaw�                                            ����*{{|=$K���OR��!]yB�J�g���X��紁cwԿ���0�U�� � ��&lt;������^�¦$� � ���z�8]r�U&quot;n���V���[�ɭۻ��_�#f�Z�W  ��'a ������f�� F��|(�yQ�xb�R-��N�*�M� TA'��Ջ:���N Ρ%t�^�K�'�8���;mNS�V^5���ќ��.���{M��ax}V�¡�vԦԕ�$\��KRg:�w=.d�3z/z�f1��        - N�����|?�O5ή&gt;&gt;����Z;q�I�M�R���&quot;;���f��B�7�H�7P8�ݦ��-J�Q�Ic/G#��&amp;gushmazuko &lt;gushmazuko@protonmail.com&gt;�8!���l�?z�6^F���Po�</code>W��</p>
+<pre><code>   �
+    F���Po�0#�2V��cl�~�:o6�,��|U�ͷ��]CT���M0�¡�e5�\���U��;     ��_r�U�mARdj�ƹ��N�¬=�Y&lt;C./�4M�8�_�e{��衘f����,��ڱ��
+                                                      �@#����-��X5`�?��|u ����m=
+                     )�VǖgB��&quot;�L�/͖B$�
+</code></pre>
+<p>�&gt;HXh\��ѥi{���U�����; �q̬�SQƜ��N�!߀����Չ��Ri�W�åQ%��<em>ȌZ�bۋDa���������ݞB<code>����g��c�&amp;�9+��}�y�Q��؞�Pb�gXnT%��^;$�R3&gt;��eT{���W�v�m��.���NԪ�y��)�V�6 �p�!�I�ۑ0�3�&gt;�L���?��y�T|�wBԙ���^��ǚ�sy!�^U@��ɢj&lt;=�Pt9�b&amp;WJ</code>W����v���J8���%�+����A.�'��K+��X.g\I��<code>�x i��)Xo&amp;��n�&lt;ֆ�5P���O�V�['��^�T�a�� ���Ed[&gt;djr��o��� 2����T���K�.����Z�m �3a��}�!��?�@.�|�#�G��ܭ�����@�F){v�:�^��,q� ���Gy$�b��a��Xc��?6��D����*�[y���D�����+HVP��v&amp;T</code>�p\��&amp;�/,o���o�TX��%p�os��]������ד�WƥԖJ���r��1�[���[��-�n��ݳ��?K��{L�PM���zH��H�{���@�钃&lt;f��4��</em>��EMO�@J�ݞӢ��ki��7�W-��W������PRig*���=8�Ӿ�V��hM�msY;�
+�M��|�b�H��
+��Tk��n1S���x�z��\�y�}��W�:I�c���]vsXEK��
+�4�<code>�M!��4�wd=ȭ+�� !���l�?z�6^F���Po�</code>W��</p>
+<pre><code>    F���Po�k��?��d��j����-�dh�[�f�K7�`�ɠ��=
+                                           �]�G��&quot;�������3�)��D��Vj��J
+</code></pre>
+<p>g��^#���3b���V;�����a�Tv�
+�W�&quot;s;.KK�K�q}}GKt#��7ڊ�
+��m�F&quot;=*�
+�Fj�&amp;��zF'1�A �/�6f��9ண��7�����=�4���z߅�$��Mֈ
+y�diJ��ű<code>�OAg�^�7�- ��Y����y'�����M#�\�#H������R�~0CQp���o6B�(���p��hC��lq�Vs�J{ory���u]�d���(��y�&lt;���k@.Fȷ�l&quot;jԵ��� �,�b+���꜠4���5Ұ75D��sΰ|!�to-f|����п �W�:�a�·���!�� %</code>v�����7�����ᘅS&quot;�ë���1O�L
+a,�#&amp;�Kl�;����c=*4
+b��f�+U�ag&lt;�!��p�`v�## Set low priority for all gushmazuko repository (for security purposes)
+Package: *
+Pin: release gushmazuko
+Pin-Priority: 100</p>
+<h2 id="set-highest-priority-for-ruby-package-from-gushmazuko-repository">Set highest priority for ruby package from gushmazuko repository</h2>
+<p>Package: ruby
+Pin: release gushmazuko
+Pin-Priority: 1001
+Reading package lists&hellip; Done
+Building dependency tree&hellip; Done
+Reading state information&hellip; Done
+The following package was automatically installed and is no longer required:
+libyaml
+Use &lsquo;apt autoremove&rsquo; to remove it.
+The following packages will be REMOVED:
+ruby*
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 23.6 MB disk space will be freed.
+(Reading database &hellip; 21099 files and directories currently installed.)
+Removing ruby (2.7.2-3) &hellip;
+dpkg: warning: while removing ruby, directory &lsquo;/data/data/com.termux/files/usr/lib/ruby/gems/2.7.0/gems&rsquo; not empty so not removed
+dpkg: warning: while removing ruby, directory &lsquo;/data/data/com.termux/files/usr/lib/ruby/gems/2.7.0/specifications&rsquo; not empty so not removed
+dpkg: warning: while removing ruby, directory &lsquo;/data/data/com.termux/files/usr/lib/ruby/gems/2.7.0/cache&rsquo; not empty so not removed
+Checking availability of current mirror: ok
+Get:1 <a class="link" href="https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master"  target="_blank" rel="noopener"
+    >https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master</a> gushmazuko InRelease [7397 B]
+Hit:2 <a class="link" href="https://packages.termux.org/apt/termux-main"  target="_blank" rel="noopener"
+    >https://packages.termux.org/apt/termux-main</a> stable InRelease
+Fetched 7397 B in 4s (1968 B/s)
+Reading package lists&hellip; Done
+Building dependency tree&hellip; Done
+Reading state information&hellip; Done
+All packages are up to date.
+Reading package lists&hellip; Done
+Building dependency tree&hellip; Done
+Reading state information&hellip; Done
+Calculating upgrade&hellip; Done
+The following package was automatically installed and is no longer required:
+libyaml
+Use &lsquo;apt autoremove&rsquo; to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Checking availability of current mirror: ok
+Reading package lists&hellip; Done
+Building dependency tree&hellip; Done
+Reading state information&hellip; Done
+apr is already the newest version (1.7.0-4).
+apr-util is already the newest version (1.6.1-5).
+autoconf is already the newest version (2.71-2).
+bison is already the newest version (3.8.2).
+clang is already the newest version (12.0.1).
+coreutils is already the newest version (8.32-8).
+curl is already the newest version (7.79.1).
+findutils is already the newest version (4.8.0).
+git is already the newest version (2.33.1).
+libffi is already the newest version (3.4.2).
+libgmp is already the newest version (6.2.1).
+libgrpc is already the newest version (1.38.1).
+libpcap is already the newest version (1.10.1).
+libsqlite is already the newest version (3.36.0-1).
+libtool is already the newest version (2.4.6-8).
+libxml2 is already the newest version (2.9.12-1).
+libxslt is already the newest version (1.1.34-1).
+make is already the newest version (4.3-1).
+ncurses is already the newest version (6.2.20200725-6).
+ncurses-utils is already the newest version (6.2.20200725-6).
+openssl is already the newest version (1.1.1l).
+pkg-config is already the newest version (0.29.2).
+postgresql is already the newest version (13.3).
+python is already the newest version (3.10.0-1).
+readline is already the newest version (8.1.1).
+tar is already the newest version (1.34).
+termux-elf-cleaner is already the newest version (1.7).
+termux-tools is already the newest version (0.143).
+unzip is already the newest version (6.0-7).
+wget is already the newest version (1.21.1).
+zip is already the newest version (3.0-5).
+The following NEW packages will be installed:
+ruby
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 0 B/4092 kB of archives.
+After this operation, 23.6 MB of additional disk space will be used.
+Selecting previously unselected package ruby.
+(Reading database &hellip; 19306 files and directories currently installed.)
+Preparing to unpack &hellip;/ruby_2.7.2-3_aarch64.deb &hellip;
+Unpacking ruby (2.7.2-3) &hellip;
+Setting up ruby (2.7.2-3) &hellip;
+Requirement already satisfied: pip in /data/data/com.termux/files/usr/lib/python3.10/site-packages (21.3)
+Requirement already satisfied: requests in /data/data/com.termux/files/usr/lib/python3.10/site-packages (2.26.0)
+Requirement already satisfied: urllib3&lt;1.27,&gt;=1.21.1 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (1.26.7)
+Requirement already satisfied: idna&lt;4,&gt;=2.5 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (3.3)
+Requirement already satisfied: charset-normalizer~=2.0.0 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (2.0.7)
+Requirement already satisfied: certifi&gt;=2017.4.17 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (2021.10.8)</p>
+<p>================= *** Fix ruby BigDecimal =================
+Reading package lists&hellip;
+Building dependency tree&hellip;
+Reading state information&hellip;
+patchelf is already the newest version (0.13).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.</p>
+<p>========== *** Erasing old metasploit folder&hellip; ===========</p>
+<p>=================== *** Downloading&hellip; ====================
+Cloning into &lsquo;metasploit-framework&rsquo;&hellip;
+remote: Enumerating objects: 13372, done.
+remote: Counting objects: 100% (13372/13372), done.
+remote: Compressing objects: 100% (11530/11530), done.
+Receiving objects:   4% (557/13372), 3.75 MiB | 821.00 KiB/Receiving objects:   4% (563/13372), 4.04 MiB | 797.00 KiB/Receiving objects:   4% (588/13372), 4.87 MiB | 877.00 KiB/Receiving objects:   4% (602/13372), 6.98 MiB | 898.00 KiB/Receiving objects:   5% (669/13372), 7.86 MiB | 923.00 KiB/Receiving objects:   6% (803/13372), 7.86 MiB | 923.00 KiB/Receiving objects:   7% (937/13372), 7.86 MiB | 923.00 KiB/Receiving objects:   8% (1070/13372), 7.86 MiB | 923.00 KiBReceiving objects:   8% (1129/13372), 7.86 MiB | 923.00 KiBReceiving objects:   9% (1204/13372), 7.86 MiB | 923.00 KiBReceiving objects:   9% (1288/13372), 9.82 MiB | 1.30 MiB/sReceiving objects:   9% (1322/13372), 11.48 MiB | 1.39 MiB/Receiving objects:   9% (1323/13372), 12.34 MiB | 1.36 MiB/Receiving objects:   9% (1323/13372), 14.04 MiB | 1.31 MiB/Receiving objects:   9% (1323/13372), 15.50 MiB | 1.21 MiB/Receiving objects:   9% (1324/13372), 16.49 MiB | 1.42 MiB/Receiving objects:   9% (1324/13372), 17.68 MiB | 1.32 MiB/Receiving objects:  10% (1338/13372), 17.68 MiB | 1.32 MiB/Receiving objects:  10% (1409/13372), 18.10 MiB | 1.22 MiB/Receiving objects:  10% (1410/13372), 18.67 MiB | 985.00 KiReceiving objects:  10% (1410/13372), 19.20 MiB | 779.00 KiReceiving objects:  10% (1410/13372), 19.41 MiB | 606.00 KiReceiving objects:  10% (1410/13372), 20.15 MiB | 517.00 KiReceiving objects:  10% (1410/13372), 20.91 MiB | 542.00 KiReceiving objects:  10% (1412/13372), 21.83 MiB | 676.00 KiReceiving objects:  10% (1413/13372), 23.32 MiB | 897.00 KiReceiving objects:  10% (1413/13372), 24.64 MiB | 1.08 MiB/Receiving objects:  10% (1414/13372), 25.62 MiB | 1.20 MiB/Receiving objects:  10% (1425/13372), 28.22 MiB | 1.53 MiB/Receiving objects:  10% (1425/13372), 29.90 MiB | 1.62 MiB/Receiving objects:  10% (1428/13372), 32.18 MiB | 1.76 MiB/Receiving objects:  10% (1433/13372), 34.21 MiB | 1.87 MiB/Receiving objects:  11% (1471/13372), 34.21 MiB | 1.87 MiB/Receiving objects:  11% (1520/13372), 35.71 MiB | 1.98 MiB/Receiving objects:  12% (1605/13372), 35.71 MiB | 1.98 MiB/Receiving objects:  13% (1739/13372), 36.85 MiB | 2.06 MiB/Receiving objects:  14% (1873/13372), 36.85 MiB | 2.06 MiB/Receiving objects:  14% (1900/13372), 37.62 MiB | 2.03 MiB/Receiving objects:  14% (1928/13372), 39.21 MiB | 2.01 MiB/Receiving objects:  15% (2006/13372), 39.21 MiB | 2.01 MiB/Receiving objects:  16% (2140/13372), 39.21 MiB | 2.01 MiB/Receiving objects:  17% (2274/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  18% (2407/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  19% (2541/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  20% (2675/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  21% (2809/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  22% (2942/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  23% (3076/13372), 41.15 MiB | 1.94 MiB/Receiving objects:  23% (3205/13372), 41.15 MiB | 1.94 MiB/Receiving objects:  24% (3210/13372), 41.15 MiB | 1.94 MiB/Receiving objects:  25% (3343/13372), 41.15 MiB | 1.94 MiB/Receiving objects:  26% (3477/13372), 41.74 MiB | 1.82 MiB/Receiving objects:  27% (3611/13372), 41.74 MiB | 1.82 MiB/Receiving objects:  28% (3745/13372), 41.74 MiB | 1.82 MiB/Receiving objects:  29% (3878/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  30% (4012/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  31% (4146/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  31% (4251/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  32% (4280/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  33% (4413/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  34% (4547/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  35% (4681/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  36% (4814/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  37% (4948/13372), 44.07 MiB | 1.84 MiB/Receiving objects:  38% (5082/13372), 44.07 MiB | 1.84 MiB/Receiving objects:  39% (5216/13372), 44.07 MiB | 1.84 MiB/Receiving objects:  40% (5349/13372), 44.07 MiB | 1.84 MiB/Receiving objects:  40% (5400/13372), 45.19 MiB | 1.84 MiB/Receiving objects:  41% (5483/13372), 45.19 MiB | 1.84 MiB/Receiving objects:  42% (5617/13372), 45.19 MiB | 1.84 MiB/Receiving objects:  43% (5750/13372), 45.61 MiB | 1.77 MiB/Receiving objects:  44% (5884/13372), 45.61 MiB | 1.77 MiB/Receiving objects:  45% (6018/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  46% (6152/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  47% (6285/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  48% (6419/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  49% (6553/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  49% (6554/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  50% (6686/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  51% (6820/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  52% (6954/13372), 47.28 MiB | 1.79 MiB/Receiving objects:  53% (7088/13372), 47.28 MiB | 1.79 MiB/Receiving objects:  54% (7221/13372), 47.28 MiB | 1.79 MiB/Receiving objects:  55% (7355/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  56% (7489/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  57% (7623/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  58% (7756/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  59% (7890/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  60% (8024/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  60% (8072/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  61% (8157/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  62% (8291/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  63% (8425/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  64% (8559/13372), 49.77 MiB | 1.90 MiB/Receiving objects:  65% (8692/13372), 49.77 MiB | 1.90 MiB/Receiving objects:  66% (8826/13372), 49.77 MiB | 1.90 MiB/Receiving objects:  67% (8960/13372), 49.77 MiB | 1.90 MiB/Receiving objects:  68% (9093/13372), 50.52 MiB | 1.93 MiB/Receiving objects:  69% (9227/13372), 50.52 MiB | 1.93 MiB/Receiving objects:  69% (9335/13372), 50.52 MiB | 1.93 MiB/Receiving objects:  70% (9361/13372), 50.52 MiB | 1.93 MiB/Receiving objects:  71% (9495/13372), 50.52 MiB | 1.93 MiB/Receiving objects:  72% (9628/13372), 51.39 MiB | 1.87 MiB/Receiving objects:  73% (9762/13372), 51.39 MiB | 1.87 MiB/Receiving objects:  74% (9896/13372), 52.04 MiB | 1.75 MiB/Receiving objects:  75% (10029/13372), 52.04 MiB | 1.75 MiBReceiving objects:  75% (10159/13372), 52.04 MiB | 1.75 MiBReceiving objects:  76% (10163/13372), 52.04 MiB | 1.75 MiBReceiving objects:  77% (10297/13372), 52.04 MiB | 1.75 MiBReceiving objects:  78% (10431/13372), 52.04 MiB | 1.75 MiBReceiving objects:  79% (10564/13372), 53.30 MiB | 1.77 MiBReceiving objects:  80% (10698/13372), 53.30 MiB | 1.77 MiBReceiving objects:  81% (10832/13372), 53.30 MiB | 1.77 MiBReceiving objects:  82% (10966/13372), 53.30 MiB | 1.77 MiBReceiving objects:  83% (11099/13372), 54.15 MiB | 1.87 MiBReceiving objects:  84% (11233/13372), 54.15 MiB | 1.87 MiBReceiving objects:  84% (11309/13372), 54.15 MiB | 1.87 MiBReceiving objects:  85% (11367/13372), 54.15 MiB | 1.87 MiBReceiving objects:  86% (11500/13372), 54.15 MiB | 1.87 MiBReceiving objects:  87% (11634/13372), 54.15 MiB | 1.87 MiBReceiving objects:  88% (11768/13372), 54.15 MiB | 1.87 MiBReceiving objects:  89% (11902/13372), 54.15 MiB | 1.87 MiBReceiving objects:  90% (12035/13372), 54.15 MiB | 1.87 MiBReceiving objects:  91% (12169/13372), 55.21 MiB | 2.00 MiBReceiving objects:  92% (12303/13372), 55.21 MiB | 2.00 MiBReceiving objects:  93% (12436/13372), 55.21 MiB | 2.00 MiBReceiving objects:  94% (12570/13372), 55.21 MiB | 2.00 MiBReceiving objects:  95% (12704/13372), 55.21 MiB | 2.00 MiBReceiving objects:  96% (12838/13372), 55.21 MiB | 2.00 MiBReceiving objects:  97% (12971/13372), 55.21 MiB | 2.00 MiBReceiving objects:  98% (13105/13372), 56.12 MiB | 1.92 MiBReceiving objects:  99% (13239/13372), 56.12 MiB | 1.92 MiBremote: Total 13372 (delta 1669), reused 6156 (delta 1089), pack-reused 0
+Receiving objects: 100% (13372/13372), 56.12 MiB | 1.92 MiBReceiving objects: 100% (13372/13372), 56.34 MiB | 1.37 MiB/s, done.
+Resolving deltas: 100% (1669/1669), done.
+Updating files: 100% (11480/11480), done.</p>
+<p>=================== *** Installation&hellip; ===================
+Fetching bundler-2.2.29.gem
+Successfully installed bundler-2.2.29
+Parsing documentation for bundler-2.2.29
+Installing ri documentation for bundler-2.2.29
+Done installing documentation for bundler after 19 seconds
+1 gem installed
+Fetching nokogiri-1.8.0.gem
+Fetching mini_portile2-2.2.0.gem
+Successfully installed mini_portile2-2.2.0
+Building native extensions with: &lsquo;&ndash;use-system-libraries&rsquo;
+This could take a while&hellip;
+Successfully installed nokogiri-1.8.0
+Parsing documentation for mini_portile2-2.2.0
+Installing ri documentation for mini_portile2-2.2.0
+Parsing documentation for nokogiri-1.8.0
+Installing ri documentation for nokogiri-1.8.0
+Done installing documentation for mini_portile2, nokogiri after 56 seconds
+2 gems installed
+Fetching concurrent-ruby-1.1.9.gem
+Fetching rack-test-1.1.0.gem
+Fetching i18n-1.8.10.gem
+Fetching zeitwerk-2.4.2.gem
+Fetching rack-2.2.3.gem
+Fetching crass-1.0.6.gem
+Fetching tzinfo-2.0.4.gem
+Fetching activesupport-6.1.4.1.gem
+Fetching loofah-2.12.0.gem
+Fetching rails-html-sanitizer-1.4.2.gem
+Fetching rails-dom-testing-2.0.3.gem
+Fetching builder-3.2.4.gem
+Fetching erubi-1.10.0.gem
+Fetching actionview-6.1.4.1.gem
+Fetching actionpack-6.1.4.1.gem
+Successfully installed concurrent-ruby-1.1.9
+Successfully installed i18n-1.8.10
+Successfully installed tzinfo-2.0.4
+Successfully installed zeitwerk-2.4.2
+Successfully installed activesupport-6.1.4.1
+Successfully installed rack-2.2.3
+Successfully installed rack-test-1.1.0
+Successfully installed crass-1.0.6
+Successfully installed loofah-2.12.0
+Successfully installed rails-html-sanitizer-1.4.2
+Successfully installed rails-dom-testing-2.0.3
+Successfully installed builder-3.2.4
+Successfully installed erubi-1.10.0
+Successfully installed actionview-6.1.4.1
+Successfully installed actionpack-6.1.4.1
+Parsing documentation for concurrent-ruby-1.1.9
+Installing ri documentation for concurrent-ruby-1.1.9
+Parsing documentation for i18n-1.8.10
+Installing ri documentation for i18n-1.8.10
+Parsing documentation for tzinfo-2.0.4
+Installing ri documentation for tzinfo-2.0.4
+Parsing documentation for zeitwerk-2.4.2
+Installing ri documentation for zeitwerk-2.4.2
+Parsing documentation for activesupport-6.1.4.1
+Installing ri documentation for activesupport-6.1.4.1
+Parsing documentation for rack-2.2.3
+Installing ri documentation for rack-2.2.3
+Parsing documentation for rack-test-1.1.0
+Installing ri documentation for rack-test-1.1.0
+Parsing documentation for crass-1.0.6
+Installing ri documentation for crass-1.0.6
+Parsing documentation for loofah-2.12.0
+Installing ri documentation for loofah-2.12.0
+Parsing documentation for rails-html-sanitizer-1.4.2
+Installing ri documentation for rails-html-sanitizer-1.4.2
+Parsing documentation for rails-dom-testing-2.0.3
+Installing ri documentation for rails-dom-testing-2.0.3
+Parsing documentation for builder-3.2.4
+Installing ri documentation for builder-3.2.4
+Parsing documentation for erubi-1.10.0
+Installing ri documentation for erubi-1.10.0
+Parsing documentation for actionview-6.1.4.1
+Installing ri documentation for actionview-6.1.4.1
+Parsing documentation for actionpack-6.1.4.1
+Installing ri documentation for actionpack-6.1.4.1
+Done installing documentation for concurrent-ruby, i18n, tzinfo, zeitwerk, activesupport, rack, rack-test, crass, loofah, rails-html-sanitizer, rails-dom-testing, builder, erubi, actionview, actionpack after 139 seconds
+15 gems installed
+Fetching gem metadata from <a class="link" href="https://rubygems.org/........"  target="_blank" rel="noopener"
+    >https://rubygems.org/........</a>.
+Fetching gem metadata from <a class="link" href="https://rubygems.org/"  target="_blank" rel="noopener"
+    >https://rubygems.org/</a>.
+Resolving dependencies&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..
+Fetching rake 13.0.6
+Installing rake 13.0.6
+Fetching Ascii85 1.1.0
+Installing Ascii85 1.1.0
+Fetching concurrent-ruby 1.0.5
+Installing concurrent-ruby 1.0.5
+Using i18n 1.8.10
+Fetching minitest 5.14.4
+Installing minitest 5.14.4
+Using tzinfo 2.0.4
+Using zeitwerk 2.4.2
+Using activesupport 6.1.4.1
+Using builder 3.2.4
+Using erubi 1.10.0
+Fetching mini_portile2 2.6.1
+Installing mini_portile2 2.6.1
+Fetching racc 1.5.2
+Installing racc 1.5.2 with native extensions
+Using nokogiri 1.8.0
+Using rails-dom-testing 2.0.3
+Using crass 1.0.6
+Using loofah 2.12.0
+Using rails-html-sanitizer 1.4.2
+Using actionview 6.1.4.1
+Using rack 2.2.3
+Using rack-test 1.1.0
+Using actionpack 6.1.4.1
+Fetching activemodel 6.1.4.1
+Installing activemodel 6.1.4.1
+Fetching activerecord 6.1.4.1
+Installing activerecord 6.1.4.1
+Fetching public_suffix 4.0.6
+Installing public_suffix 4.0.6
+Fetching addressable 2.8.0
+Installing addressable 2.8.0
+Fetching afm 0.2.2
+Installing afm 0.2.2
+Fetching arel-helpers 2.12.1
+Installing arel-helpers 2.12.1
+Fetching ast 2.4.2
+Installing ast 2.4.2
+Fetching aws-eventstream 1.2.0
+Installing aws-eventstream 1.2.0
+Fetching aws-partitions 1.515.0
+Installing aws-partitions 1.515.0
+Fetching aws-sigv4 1.4.0
+Installing aws-sigv4 1.4.0
+Fetching jmespath 1.4.0
+Installing jmespath 1.4.0
+Fetching aws-sdk-core 3.121.1
+Installing aws-sdk-core 3.121.1
+Fetching aws-sdk-ec2 1.270.0
+Installing aws-sdk-ec2 1.270.0
+Fetching aws-sdk-iam 1.61.0
+Installing aws-sdk-iam 1.61.0
+Fetching aws-sdk-kms 1.49.0
+Installing aws-sdk-kms 1.49.0
+Fetching aws-sdk-s3 1.103.0
+Installing aws-sdk-s3 1.103.0
+Fetching bcrypt 3.1.16
+Installing bcrypt 3.1.16 with native extensions
+Fetching bcrypt_pbkdf 1.1.0
+Installing bcrypt_pbkdf 1.1.0 with native extensions
+Fetching bindata 2.4.10
+Installing bindata 2.4.10
+Fetching bson 4.12.1
+Installing bson 4.12.1 with native extensions
+Using bundler 2.1.4
+Fetching byebug 11.1.3
+Installing byebug 11.1.3 with native extensions
+Fetching coderay 1.1.3
+Installing coderay 1.1.3
+Fetching cookiejar 0.3.3
+Installing cookiejar 0.3.3
+Fetching daemons 1.4.1
+Installing daemons 1.4.1
+Fetching diff-lcs 1.4.4
+Installing diff-lcs 1.4.4
+Fetching unf_ext 0.0.8
+Installing unf_ext 0.0.8 with native extensions
+Fetching unf 0.1.4
+Installing unf 0.1.4
+Fetching simpleidn 0.2.1
+Installing simpleidn 0.2.1
+Fetching dnsruby 1.61.7
+Installing dnsruby 1.61.7
+Fetching docile 1.4.0
+Installing docile 1.4.0
+Fetching domain_name 0.5.20190701
+Installing domain_name 0.5.20190701
+Fetching ed25519 1.2.4
+Installing ed25519 1.2.4 with native extensions
+Fetching eventmachine 1.2.7
+Installing eventmachine 1.2.7 with native extensions
+Fetching em-socksify 0.3.2
+Installing em-socksify 0.3.2
+Fetching http_parser.rb 0.8.0
+Installing http_parser.rb 0.8.0 with native extensions
+Fetching em-http-request 1.1.7
+Installing em-http-request 1.1.7
+Fetching factory_bot 6.2.0
+Installing factory_bot 6.2.0
+Fetching method_source 1.0.0
+Installing method_source 1.0.0
+Fetching thor 1.1.0
+Installing thor 1.1.0
+Fetching railties 6.1.4.1
+Installing railties 6.1.4.1
+Fetching factory_bot_rails 6.2.0
+Installing factory_bot_rails 6.2.0
+Fetching faker 2.19.0
+Installing faker 2.19.0
+Fetching faraday-em_http 1.0.0
+Installing faraday-em_http 1.0.0
+Fetching faraday-em_synchrony 1.0.0
+Installing faraday-em_synchrony 1.0.0
+Fetching faraday-excon 1.1.0
+Installing faraday-excon 1.1.0
+Fetching faraday-httpclient 1.0.1
+Installing faraday-httpclient 1.0.1
+Fetching faraday-net_http 1.0.1
+Installing faraday-net_http 1.0.1
+Fetching faraday-net_http_persistent 1.2.0
+Installing faraday-net_http_persistent 1.2.0
+Fetching faraday-patron 1.0.0
+Installing faraday-patron 1.0.0
+Fetching faraday-rack 1.0.0
+Installing faraday-rack 1.0.0
+Fetching multipart-post 2.1.1
+Installing multipart-post 2.1.1
+Fetching ruby2_keywords 0.0.5
+Installing ruby2_keywords 0.0.5
+Fetching faraday 1.8.0
+Installing faraday 1.8.0
+Fetching websocket-extensions 0.1.5
+Installing websocket-extensions 0.1.5
+Fetching websocket-driver 0.7.5
+Installing websocket-driver 0.7.5 with native extensions
+Fetching faye-websocket 0.11.1
+Installing faye-websocket 0.11.1
+Fetching ffi 1.15.4
+Installing ffi 1.15.4 with native extensions
+Fetching filesize 0.2.0
+Installing filesize 0.2.0
+Fetching fivemat 1.3.7
+Installing fivemat 1.3.7
+Fetching gssapi 1.3.1
+Installing gssapi 1.3.1
+Fetching gyoku 1.3.1
+Installing gyoku 1.3.1
+Fetching hashery 2.1.2
+Installing hashery 2.1.2
+Fetching hrr_rb_ssh 0.4.2
+Installing hrr_rb_ssh 0.4.2
+Fetching hrr_rb_ssh-ed25519 0.4.2
+Installing hrr_rb_ssh-ed25519 0.4.2
+Fetching http-cookie 1.0.4
+Installing http-cookie 1.0.4
+Fetching httpclient 2.8.3
+Installing httpclient 2.8.3
+Fetching io-console 0.5.9
+Installing io-console 0.5.9 with native extensions
+Fetching reline 0.2.5
+Installing reline 0.2.5
+Fetching irb 1.3.6
+Installing irb 1.3.6
+Fetching rkelly-remix 0.0.7
+Installing rkelly-remix 0.0.7
+Fetching jsobfu 0.4.2
+Installing jsobfu 0.4.2
+Fetching json 2.6.0
+Installing json 2.6.0 with native extensions
+Fetching little-plugger 1.1.4
+Installing little-plugger 1.1.4
+Fetching multi_json 1.15.0
+Installing multi_json 1.15.0
+Fetching logging 2.3.0
+Installing logging 2.3.0
+Fetching memory_profiler 1.0.0
+Installing memory_profiler 1.0.0
+Fetching metasm 1.0.5
+Installing metasm 1.0.5
+Fetching metasploit-concern 4.0.3
+Installing metasploit-concern 4.0.3
+Fetching metasploit-model 4.0.3
+Installing metasploit-model 4.0.3
+Fetching pg 1.2.3
+Installing pg 1.2.3 with native extensions
+Fetching recog 2.3.21
+Installing recog 2.3.21
+Fetching webrick 1.7.0
+Installing webrick 1.7.0
+Fetching metasploit_data_models 5.0.4
+Installing metasploit_data_models 5.0.4
+Fetching net-ssh 6.1.0
+Installing net-ssh 6.1.0
+Fetching rex-core 0.1.18
+Installing rex-core 0.1.18
+Fetching rex-socket 0.1.33
+Installing rex-socket 0.1.33
+Fetching rubyntlm 0.6.3
+Installing rubyntlm 0.6.3
+Fetching rubyzip 2.3.2
+Installing rubyzip 2.3.2
+Fetching metasploit-credential 5.0.5
+Installing metasploit-credential 5.0.5
+Fetching metasploit-payloads 2.0.58
+Installing metasploit-payloads 2.0.58
+Fetching metasploit_payloads-mettle 1.0.13
+Installing metasploit_payloads-mettle 1.0.13
+Fetching mqtt 0.5.0
+Installing mqtt 0.5.0
+Fetching msgpack 1.4.2
+Installing msgpack 1.4.2 with native extensions
+Fetching nessus_rest 0.1.6
+Installing nessus_rest 0.1.6
+Fetching net-ldap 0.17.0
+Installing net-ldap 0.17.0
+Fetching network_interface 0.0.2
+Installing network_interface 0.0.2 with native extensions
+Fetching nexpose 7.3.0
+Installing nexpose 7.3.0
+Fetching sawyer 0.8.2
+Installing sawyer 0.8.2
+Fetching octokit 4.21.0
+Installing octokit 4.21.0
+Fetching openssl-ccm 1.2.2
+Installing openssl-ccm 1.2.2
+Fetching openvas-omp 0.0.4
+Installing openvas-omp 0.0.4
+Fetching pcaprub 0.12.4
+Installing pcaprub 0.12.4 with native extensions
+Fetching packetfu 1.1.13
+Installing packetfu 1.1.13
+Fetching patch_finder 1.0.2
+Installing patch_finder 1.0.2
+Fetching ruby-rc4 0.1.5
+Installing ruby-rc4 0.1.5
+Fetching ttfunk 1.7.0
+Installing ttfunk 1.7.0
+Fetching pdf-reader 2.5.0
+Installing pdf-reader 2.5.0
+Fetching nio4r 2.5.8
+Installing nio4r 2.5.8 with native extensions
+Fetching puma 5.5.2
+Installing puma 5.5.2 with native extensions
+Fetching rb-readline 0.5.5
+Installing rb-readline 0.5.5
+Fetching redcarpet 3.5.1
+Installing redcarpet 3.5.1 with native extensions
+Fetching rex-text 0.2.37
+Installing rex-text 0.2.37
+Fetching rex-arch 0.1.14
+Installing rex-arch 0.1.14
+Fetching rex-struct2 0.1.3
+Installing rex-struct2 0.1.3
+Fetching rex-bin_tools 0.1.8
+Installing rex-bin_tools 0.1.8
+Fetching rex-encoder 0.1.6
+Installing rex-encoder 0.1.6
+Fetching rexml 3.2.5
+Installing rexml 3.2.5
+Fetching rex-exploitation 0.1.28
+Installing rex-exploitation 0.1.28
+Fetching rex-java 0.1.6
+Installing rex-java 0.1.6
+Fetching rex-mime 0.1.6
+Installing rex-mime 0.1.6
+Fetching rex-nop 0.1.2
+Installing rex-nop 0.1.2
+Fetching rex-ole 0.1.7
+Installing rex-ole 0.1.7
+Fetching rex-random_identifier 0.1.8
+Installing rex-random_identifier 0.1.8
+Fetching rex-powershell 0.1.93
+Installing rex-powershell 0.1.93
+Fetching rex-registry 0.1.4
+Installing rex-registry 0.1.4
+Fetching rex-rop_builder 0.1.4
+Installing rex-rop_builder 0.1.4
+Fetching rex-sslscan 0.1.6
+Installing rex-sslscan 0.1.6
+Fetching rex-zip 0.1.4
+Installing rex-zip 0.1.4
+Fetching ruby-macho 2.5.1
+Installing ruby-macho 2.5.1
+Fetching openssl-cmac 2.0.1
+Installing openssl-cmac 2.0.1
+Fetching windows_error 0.1.2
+Installing windows_error 0.1.2
+Fetching ruby_smb 2.0.11
+Installing ruby_smb 2.0.11
+Fetching mustermann 1.1.1
+Installing mustermann 1.1.1
+Fetching rack-protection 2.1.0
+Installing rack-protection 2.1.0
+Fetching tilt 2.0.10
+Installing tilt 2.0.10
+Fetching sinatra 2.1.0
+Installing sinatra 2.1.0
+Fetching sqlite3 1.4.2
+Installing sqlite3 1.4.2 with native extensions
+Fetching sshkey 2.0.0
+Installing sshkey 2.0.0
+Fetching swagger-blocks 3.0.0
+Installing swagger-blocks 3.0.0
+Fetching thin 1.8.1
+Installing thin 1.8.1 with native extensions
+Fetching tzinfo-data 1.2021.3
+Installing tzinfo-data 1.2021.3
+Fetching unix-crypt 1.3.0
+Installing unix-crypt 1.3.0
+Fetching warden 1.2.9
+Installing warden 1.2.9
+Fetching win32api 0.1.0
+Installing win32api 0.1.0
+Fetching nori 2.6.0
+Installing nori 2.6.0
+Fetching winrm 2.3.6
+Installing winrm 2.3.6
+Fetching xdr 3.0.2
+Installing xdr 3.0.2
+Fetching xmlrpc 0.3.2
+Installing xmlrpc 0.3.2
+Using metasploit-framework 6.1.11 from source at <code>.</code>
+Fetching parallel 1.21.0
+Installing parallel 1.21.0
+Fetching parser 3.0.2.0
+Installing parser 3.0.2.0
+Fetching pry 0.13.1
+Installing pry 0.13.1
+Fetching pry-byebug 3.9.0
+Installing pry-byebug 3.9.0
+Fetching rainbow 3.0.0
+Installing rainbow 3.0.0
+Fetching regexp_parser 2.1.1
+Installing regexp_parser 2.1.1
+Fetching rspec-support 3.10.2
+Installing rspec-support 3.10.2
+Fetching rspec-core 3.10.1
+Installing rspec-core 3.10.1
+Fetching rspec-expectations 3.10.1
+Installing rspec-expectations 3.10.1
+Fetching rspec-mocks 3.10.2
+Installing rspec-mocks 3.10.2
+Fetching rspec 3.10.0
+Installing rspec 3.10.0
+Fetching rspec-rails 5.0.2
+Installing rspec-rails 5.0.2
+Fetching rspec-rerun 1.1.0
+Installing rspec-rerun 1.1.0
+Fetching rubocop-ast 1.12.0
+Installing rubocop-ast 1.12.0
+Fetching ruby-progressbar 1.11.0
+Installing ruby-progressbar 1.11.0
+Fetching unicode-display_width 2.1.0
+Installing unicode-display_width 2.1.0
+Fetching rubocop 1.22.1
+Installing rubocop 1.22.1
+Fetching ruby-prof 1.4.2
+Installing ruby-prof 1.4.2 with native extensions
+Fetching simplecov-html 0.12.3
+Installing simplecov-html 0.12.3
+Fetching simplecov 0.18.2
+Installing simplecov 0.18.2
+Fetching timecop 0.9.4
+Installing timecop 0.9.4
+Fetching yard 0.9.26
+Installing yard 0.9.26
+Bundler attempted to update activesupport but its version stayed the same
+Bundle updated!
+Post-install message from dnsruby:
+Installing dnsruby&hellip;
+For issues and source code: <a class="link" href="https://github.com/alexdalitz/dnsruby"  target="_blank" rel="noopener"
+    >https://github.com/alexdalitz/dnsruby</a>
+For general discussion (please tell us how you use dnsruby): <a class="link" href="https://groups.google.com/forum/#!forum/dnsruby"  target="_blank" rel="noopener"
+    >https://groups.google.com/forum/#!forum/dnsruby</a>
+Post-install message from rubyzip:
+RubyZip 3.0 is coming!</p>
+<hr>
+<p>The public API of some Rubyzip classes has been modernized to use named
+parameters for optional arguments. Please check your usage of the
+following classes:</p>
+<ul>
+<li><code>Zip::File</code></li>
+<li><code>Zip::Entry</code></li>
+<li><code>Zip::InputStream</code></li>
+<li><code>Zip::OutputStream</code></li>
+</ul>
+<p>Please ensure that your Gemfiles and .gemspecs are suitably restrictive
+to avoid an unexpected breakage when 3.0 is released (e.g. ~&gt; 2.3.0).
+See <a class="link" href="https://github.com/rubyzip/rubyzip"  target="_blank" rel="noopener"
+    >https://github.com/rubyzip/rubyzip</a> for details. The Changelog also
+lists other enhancements and bugfixes that have been implemented since
+version 2.3.0.
+Post-install message from openssl-ccm:
+Thanks for installing!
+Post-install message from openssl-cmac:
+Thanks for installing!
+Using rake 13.0.6
+Using Ascii85 1.1.0
+Using concurrent-ruby 1.0.5
+Using i18n 1.8.10
+Using minitest 5.14.4
+Using tzinfo 2.0.4
+Using zeitwerk 2.4.2
+Using activesupport 6.1.4.1
+Using builder 3.2.4
+Using erubi 1.10.0
+Using mini_portile2 2.6.1
+Using racc 1.5.2
+Using nokogiri 1.8.0
+Using rails-dom-testing 2.0.3
+Using crass 1.0.6
+Using loofah 2.12.0
+Using rails-html-sanitizer 1.4.2
+Using actionview 6.1.4.1
+Using rack 2.2.3
+Using rack-test 1.1.0
+Using actionpack 6.1.4.1
+Using activemodel 6.1.4.1
+Using activerecord 6.1.4.1
+Using public_suffix 4.0.6
+Using addressable 2.8.0
+Using afm 0.2.2
+Using arel-helpers 2.12.1
+Using ast 2.4.2
+Using aws-eventstream 1.2.0
+Using aws-partitions 1.515.0
+Using aws-sigv4 1.4.0
+Using jmespath 1.4.0
+Using aws-sdk-core 3.121.1
+Using aws-sdk-ec2 1.270.0
+Using aws-sdk-iam 1.61.0
+Using aws-sdk-kms 1.49.0
+Using aws-sdk-s3 1.103.0
+Using bcrypt 3.1.16
+Using bcrypt_pbkdf 1.1.0
+Using bindata 2.4.10
+Using bson 4.12.1
+Using bundler 2.2.29
+Using byebug 11.1.3
+Using coderay 1.1.3
+Using cookiejar 0.3.3
+Using daemons 1.4.1
+Using diff-lcs 1.4.4
+Using unf_ext 0.0.8
+Using unf 0.1.4
+Using simpleidn 0.2.1
+Using dnsruby 1.61.7
+Using docile 1.4.0
+Using domain_name 0.5.20190701
+Using ed25519 1.2.4
+Using eventmachine 1.2.7
+Using em-socksify 0.3.2
+Using http_parser.rb 0.8.0
+Using em-http-request 1.1.7
+Using factory_bot 6.2.0
+Using method_source 1.0.0
+Using thor 1.1.0
+Using railties 6.1.4.1
+Using factory_bot_rails 6.2.0
+Using faker 2.19.0
+Using faraday-em_http 1.0.0
+Using faraday-em_synchrony 1.0.0
+Using faraday-excon 1.1.0
+Using faraday-httpclient 1.0.1
+Using faraday-net_http 1.0.1
+Using faraday-net_http_persistent 1.2.0
+Using faraday-patron 1.0.0
+Using faraday-rack 1.0.0
+Using multipart-post 2.1.1
+Using ruby2_keywords 0.0.5
+Using faraday 1.8.0
+Using websocket-extensions 0.1.5
+Using websocket-driver 0.7.5
+Using faye-websocket 0.11.1
+Using ffi 1.15.4
+Using filesize 0.2.0
+Using fivemat 1.3.7
+Using gssapi 1.3.1
+Using gyoku 1.3.1
+Using hashery 2.1.2
+Using hrr_rb_ssh 0.4.2
+Using hrr_rb_ssh-ed25519 0.4.2
+Using http-cookie 1.0.4
+Using httpclient 2.8.3
+Using io-console 0.5.9
+Using reline 0.2.5
+Using irb 1.3.6
+Using rkelly-remix 0.0.7
+Using jsobfu 0.4.2
+Using json 2.6.0
+Using little-plugger 1.1.4
+Using multi_json 1.15.0
+Using logging 2.3.0
+Using memory_profiler 1.0.0
+Using metasm 1.0.5
+Using metasploit-concern 4.0.3
+Using metasploit-model 4.0.3
+Using pg 1.2.3
+Using recog 2.3.21
+Using webrick 1.7.0
+Using metasploit_data_models 5.0.4
+Using net-ssh 6.1.0
+Using rex-core 0.1.18
+Using rex-socket 0.1.33
+Using rubyntlm 0.6.3
+Using rubyzip 2.3.2
+Using metasploit-credential 5.0.5
+Using metasploit-payloads 2.0.58
+Using metasploit_payloads-mettle 1.0.13
+Using mqtt 0.5.0
+Using msgpack 1.4.2
+Using nessus_rest 0.1.6
+Using net-ldap 0.17.0
+Using network_interface 0.0.2
+Using nexpose 7.3.0
+Using sawyer 0.8.2
+Using octokit 4.21.0
+Using openssl-ccm 1.2.2
+Using openvas-omp 0.0.4
+Using pcaprub 0.12.4
+Using packetfu 1.1.13
+Using patch_finder 1.0.2
+Using ruby-rc4 0.1.5
+Using ttfunk 1.7.0
+Using pdf-reader 2.5.0
+Using nio4r 2.5.8
+Using puma 5.5.2
+Using rb-readline 0.5.5
+Using redcarpet 3.5.1
+Using rex-text 0.2.37
+Using rex-arch 0.1.14
+Using rex-struct2 0.1.3
+Using rex-bin_tools 0.1.8
+Using rex-encoder 0.1.6
+Using rexml 3.2.5
+Using rex-exploitation 0.1.28
+Using rex-java 0.1.6
+Using rex-mime 0.1.6
+Using rex-nop 0.1.2
+Using rex-ole 0.1.7
+Using rex-random_identifier 0.1.8
+Using rex-powershell 0.1.93
+Using rex-registry 0.1.4
+Using rex-rop_builder 0.1.4
+Using rex-sslscan 0.1.6
+Using rex-zip 0.1.4
+Using ruby-macho 2.5.1
+Using openssl-cmac 2.0.1
+Using windows_error 0.1.2
+Using ruby_smb 2.0.11
+Using mustermann 1.1.1
+Using rack-protection 2.1.0
+Using tilt 2.0.10
+Using sinatra 2.1.0
+Using sqlite3 1.4.2
+Using sshkey 2.0.0
+Using swagger-blocks 3.0.0
+Using thin 1.8.1
+Using tzinfo-data 1.2021.3
+Using unix-crypt 1.3.0
+Using warden 1.2.9
+Using win32api 0.1.0
+Using nori 2.6.0
+Using winrm 2.3.6
+Using xdr 3.0.2
+Using xmlrpc 0.3.2
+Using metasploit-framework 6.1.11 from source at <code>.</code>
+Using parallel 1.21.0
+Using parser 3.0.2.0
+Using pry 0.13.1
+Using pry-byebug 3.9.0
+Using rainbow 3.0.0
+Using regexp_parser 2.1.1
+Using rspec-support 3.10.2
+Using rspec-core 3.10.1
+Using rspec-expectations 3.10.1
+Using rspec-mocks 3.10.2
+Using rspec 3.10.0
+Using rspec-rails 5.0.2
+Using rspec-rerun 1.1.0
+Using rubocop-ast 1.12.0
+Using ruby-progressbar 1.11.0
+Using unicode-display_width 2.1.0
+Using rubocop 1.22.1
+Using ruby-prof 1.4.2
+Using simplecov-html 0.12.3
+Using simplecov 0.18.2
+Using timecop 0.9.4
+Using yard 0.9.26
+Bundle updated!
+Using rake 13.0.6
+Using Ascii85 1.1.0
+Using concurrent-ruby 1.0.5
+Using i18n 1.8.10
+Using minitest 5.14.4
+Using tzinfo 2.0.4
+Using zeitwerk 2.4.2
+Using activesupport 6.1.4.1
+Using builder 3.2.4
+Using erubi 1.10.0
+Using mini_portile2 2.6.1
+Using racc 1.5.2
+Using nokogiri 1.8.0
+Using rails-dom-testing 2.0.3
+Using crass 1.0.6
+Using loofah 2.12.0
+Using rails-html-sanitizer 1.4.2
+Using actionview 6.1.4.1
+Using rack 2.2.3
+Using rack-test 1.1.0
+Using actionpack 6.1.4.1
+Using activemodel 6.1.4.1
+Using activerecord 6.1.4.1
+Using public_suffix 4.0.6
+Using addressable 2.8.0
+Using afm 0.2.2
+Using arel-helpers 2.12.1
+Using ast 2.4.2
+Using aws-eventstream 1.2.0
+Using aws-partitions 1.515.0
+Using aws-sigv4 1.4.0
+Using jmespath 1.4.0
+Using aws-sdk-core 3.121.1
+Using aws-sdk-ec2 1.270.0
+Using aws-sdk-iam 1.61.0
+Using aws-sdk-kms 1.49.0
+Using aws-sdk-s3 1.103.0
+Using bcrypt 3.1.16
+Using bcrypt_pbkdf 1.1.0
+Using bindata 2.4.10
+Using bson 4.12.1
+Using bundler 2.2.29
+Using byebug 11.1.3
+Using coderay 1.1.3
+Using cookiejar 0.3.3
+Using daemons 1.4.1
+Using diff-lcs 1.4.4
+Using unf_ext 0.0.8
+Using unf 0.1.4
+Using simpleidn 0.2.1
+Using dnsruby 1.61.7
+Using docile 1.4.0
+Using domain_name 0.5.20190701
+Using ed25519 1.2.4
+Using eventmachine 1.2.7
+Using em-socksify 0.3.2
+Using http_parser.rb 0.8.0
+Using em-http-request 1.1.7
+Using factory_bot 6.2.0
+Using method_source 1.0.0
+Using thor 1.1.0
+Using railties 6.1.4.1
+Using factory_bot_rails 6.2.0
+Using faker 2.19.0
+Using faraday-em_http 1.0.0
+Using faraday-em_synchrony 1.0.0
+Using faraday-excon 1.1.0
+Using faraday-httpclient 1.0.1
+Using faraday-net_http 1.0.1
+Using faraday-net_http_persistent 1.2.0
+Using faraday-patron 1.0.0
+Using faraday-rack 1.0.0
+Using multipart-post 2.1.1
+Using ruby2_keywords 0.0.5
+Using faraday 1.8.0
+Using websocket-extensions 0.1.5
+Using websocket-driver 0.7.5
+Using faye-websocket 0.11.1
+Using ffi 1.15.4
+Using filesize 0.2.0
+Using fivemat 1.3.7
+Using gssapi 1.3.1
+Using gyoku 1.3.1
+Using hashery 2.1.2
+Using hrr_rb_ssh 0.4.2
+Using hrr_rb_ssh-ed25519 0.4.2
+Using http-cookie 1.0.4
+Using httpclient 2.8.3
+Using io-console 0.5.9
+Using reline 0.2.5
+Using irb 1.3.6
+Using rkelly-remix 0.0.7
+Using jsobfu 0.4.2
+Using json 2.6.0
+Using little-plugger 1.1.4
+Using multi_json 1.15.0
+Using logging 2.3.0
+Using memory_profiler 1.0.0
+Using metasm 1.0.5
+Using metasploit-concern 4.0.3
+Using metasploit-model 4.0.3
+Using pg 1.2.3
+Using recog 2.3.21
+Using webrick 1.7.0
+Using metasploit_data_models 5.0.4
+Using net-ssh 6.1.0
+Using rex-core 0.1.18
+Using rex-socket 0.1.33
+Using rubyntlm 0.6.3
+Using rubyzip 2.3.2
+Using metasploit-credential 5.0.5
+Using metasploit-payloads 2.0.58
+Using metasploit_payloads-mettle 1.0.13
+Using mqtt 0.5.0
+Using msgpack 1.4.2
+Using nessus_rest 0.1.6
+Using net-ldap 0.17.0
+Using network_interface 0.0.2
+Using nexpose 7.3.0
+Using sawyer 0.8.2
+Using octokit 4.21.0
+Using openssl-ccm 1.2.2
+Using openvas-omp 0.0.4
+Using pcaprub 0.12.4
+Using packetfu 1.1.13
+Using patch_finder 1.0.2
+Using ruby-rc4 0.1.5
+Using ttfunk 1.7.0
+Using pdf-reader 2.5.0
+Using nio4r 2.5.8
+Using puma 5.5.2
+Using rb-readline 0.5.5
+Using redcarpet 3.5.1
+Using rex-text 0.2.37
+Using rex-arch 0.1.14
+Using rex-struct2 0.1.3
+Using rex-bin_tools 0.1.8
+Using rex-encoder 0.1.6
+Using rexml 3.2.5
+Using rex-exploitation 0.1.28
+Using rex-java 0.1.6
+Using rex-mime 0.1.6
+Using rex-nop 0.1.2
+Using rex-ole 0.1.7
+Using rex-random_identifier 0.1.8
+Using rex-powershell 0.1.93
+Using rex-registry 0.1.4
+Using rex-rop_builder 0.1.4
+Using rex-sslscan 0.1.6
+Using rex-zip 0.1.4
+Using ruby-macho 2.5.1
+Using openssl-cmac 2.0.1
+Using windows_error 0.1.2
+Using ruby_smb 2.0.11
+Using mustermann 1.1.1
+Using rack-protection 2.1.0
+Using tilt 2.0.10
+Using sinatra 2.1.0
+Using sqlite3 1.4.2
+Using sshkey 2.0.0
+Using swagger-blocks 3.0.0
+Using thin 1.8.1
+Using tzinfo-data 1.2021.3
+Using unix-crypt 1.3.0
+Using warden 1.2.9
+Using win32api 0.1.0
+Using nori 2.6.0
+Using winrm 2.3.6
+Using xdr 3.0.2
+Using xmlrpc 0.3.2
+Using metasploit-framework 6.1.11 from source at <code>.</code>
+Using parallel 1.21.0
+Using parser 3.0.2.0
+Using pry 0.13.1
+Using pry-byebug 3.9.0
+Using rainbow 3.0.0
+Using regexp_parser 2.1.1
+Using rspec-support 3.10.2
+Using rspec-core 3.10.1
+Using rspec-expectations 3.10.1
+Using rspec-mocks 3.10.2
+Using rspec 3.10.0
+Using rspec-rails 5.0.2
+Using rspec-rerun 1.1.0
+Using rubocop-ast 1.12.0
+Using ruby-progressbar 1.11.0
+Using unicode-display_width 2.1.0
+Using rubocop 1.22.1
+Using ruby-prof 1.4.2
+Using simplecov-html 0.12.3
+Using simplecov 0.18.2
+Using timecop 0.9.4
+Using yard 0.9.26
+Bundle complete! 15 Gemfile dependencies, 193 gems now installed.
+Use <code>bundle info [gemname]</code> to see where a bundled gem is installed.
+open(&quot;/data/data/com.termux/files/usr/lib/ruby/gems/2.4.0/gems/pg-0.20.0/lib/pg_ext.so&quot;): No such file or directory</p>
+<p>============== *** Database configuration&hellip; ==============
+The files belonging to this database system will be owned by user &ldquo;u0_a1755&rdquo;.
+This user must also own the server process.</p>
+<p>The database cluster will be initialized with locale &ldquo;C.UTF-8&rdquo;.
+The default text search configuration will be set to &ldquo;english&rdquo;.</p>
+<p>Data page checksums are disabled.</p>
+<p>fixing permissions on existing directory /data/data/com.termux/files/usr/var/lib/postgresql &hellip; ok
+creating subdirectories &hellip; ok
+selecting dynamic shared memory implementation &hellip; sysv
+selecting default max_connections &hellip; 100
+selecting default shared_buffers &hellip; 128MB
+selecting default time zone &hellip; Asia/Jakarta
+creating configuration files &hellip; ok
+running bootstrap script &hellip; ok
+performing post-bootstrap initialization &hellip; ok
+syncing data to disk &hellip; ok</p>
+<p>initdb: warning: enabling &ldquo;trust&rdquo; authentication for local connections
+You can change this by editing pg_hba.conf or using the option -A, or
+&ndash;auth-local and &ndash;auth-host, the next time you run initdb.</p>
+<p>Success. You can now start the database server using:</p>
+<pre><code>pg_ctl -D /data/data/com.termux/files/usr/var/lib/postgresql -l logfile start
+</code></pre>
+<p>waiting for server to start&hellip;.2021-10-16 06:08:40.039 WIB [16184] LOG:  starting PostgreSQL 13.3 on aarch64-unknown-linux-android, compiled by Android (6454773 based on r365631c2) clang version 9.0.8 (<a class="link" href="https://android.googlesource.com/toolchain/llvm-project"  target="_blank" rel="noopener"
+    >https://android.googlesource.com/toolchain/llvm-project</a> 98c855489587874b2a325e7a516b99d838599c6f) (based on LLVM 9.0.8svn), 64-bit
+2021-10-16 06:08:40.043 WIB [16184] LOG:  listening on IPv4 address &ldquo;127.0.0.1&rdquo;, port 5432
+2021-10-16 06:08:40.405 WIB [16184] LOG:  listening on Unix socket &ldquo;/data/data/com.termux/files/usr/tmp/.s.PGSQL.5432&rdquo;
+.2021-10-16 06:08:40.939 WIB [16221] LOG:  database system was shut down at 2021-10-16 06:08:28 WIB
+2021-10-16 06:08:41.107 WIB [16184] LOG:  database system is ready to accept connections
+done
+server started</p>
+<p>============================ * ============================
+Installation complete.
+To start msf database use: ./postgresql_ctl.sh start
+Launch metasploit by executing: msfconsole
+============================ * ============================</p>
+</details>
+<blockquote>
+<p>Kemungkinan akan memakan penyimpanan perangkat Anda sebesar <code>500MB</code> sampai <code>1GB</code></p>
+</blockquote>
+<p>Penginstalan sudah selesai , silahkan lanjutkan ke artikel selanjutnya tentang cara menggunakan <strong>metasploit</strong></p>
+<blockquote>
+<p>🚂 <strong><a class="link" href="/artikel/cara-menggunakan-metasploit" >cara menggunakan metasploit</a></strong></p>
+</blockquote>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/blog/tags/metasploit/">metasploit</a>
+        
+            <a href="/blog/tags/shell/">shell</a>
+        
+            <a href="/blog/tags/termux/">termux</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under HACK&rsquo;S BY NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+        <link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css"integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn"crossorigin="anonymous"
+            ><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js"integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8"crossorigin="anonymous"
+                defer="true"
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js"integrity="sha384-vZTG03m&#43;2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl"crossorigin="anonymous"
+                defer="true"
+                >
+            </script><script>
+    window.addEventListener("DOMContentLoaded", () => {
+        renderMathInElement(document.querySelector(`.article-content`), {
+            delimiters: [
+                { left: "$$", right: "$$", display: true },
+                { left: "$", right: "$", display: false },
+                { left: "\\(", right: "\\)", display: false },
+                { left: "\\[", right: "\\]", display: true }
+            ]
+        });})
+</script>
+    
+</article>
+
+    <aside class="related-contents--wrapper">
+    
+    
+        <h2 class="section-title">Konten terkait</h2>
+        <div class="related-contents">
+            <div class="flex article-list--tile">
+                
+                    
+<article class="has-image">
+    <a href="/blog/artikel/cara-menggunakan-metasploit/">
+        
+        
+            <div class="article-image">
+                <img src="/blog/artikel/cara-menggunakan-metasploit/20211015_204102.0c183aae89de694302a396cfa887d32a_hu0f81677ca53754b440b5703bcb9bd355_238353_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-DBg6roneaUMCo5bPqIfTKg==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">cara menggunakan metasploit</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/">
+        
+        
+            <div class="article-image">
+                <img src="/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/20211011_002237.7646cc4299bbfaca99c52b1b58c8af51_hud9e9e7d64f2e08e3c08c37813584cc49_763989_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-dkbMQpm7&#43;sqZxSsbWMivUQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">cara install oh my zsh Dan oh my fish</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="/blog/artikel/pasang-arch-di-termux/">
+        
+        
+            <div class="article-image">
+                <img src="/blog/artikel/pasang-arch-di-termux/20211009_111549.863a53aa1a3059b58d5459d13912d509_hu0f81677ca53754b440b5703bcb9bd355_484128_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-hjpTqhowWbWNVFnRORLVCQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">pasang Arch di termux</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="/blog/artikel/cara-install-npm-di-termux/">
+        
+        
+            <div class="article-image">
+                <img src="/blog/artikel/cara-install-npm-di-termux/20211007_205809.cf857b782b4b1b092350e7e00bcca794_hu0f81677ca53754b440b5703bcb9bd355_111646_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-z4V7eCtLGwkjUOfgC8ynlA==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">cara install npm di termux</h2>
+        </div>
+    </a>
+</article>
+                
+            </div>
+        </div>
+    
+</aside>
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hacks-jurnal" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (DISQUS) {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2020 - 
+        
+        2021 Hack&#39;s jurnal
+    </section>
+    
+    <section class="powerby">
+        Dibangun dengan <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Tema <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.2.0">Stack</a></b> dirancang oleh <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer="true"
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer="true"
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.css"integrity="sha256-c0uckgykQ9v5k&#43;IqViZOZKc47Jn7KQil4/MP3ySA3F8="crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.css"integrity="sha256-SBLU4vv6CA6lHsZ1XyTdhyjJxCjPif/TRkjnsyGAGnE="crossorigin="anonymous"
+            >
+
+            </main>
+    
+        <aside class="sidebar right-sidebar sticky">
+            <section class="widget archives">
+                <div class="widget-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                </div>
+                <h2 class="widget-title section-title">Daftar Isi</h2>
+                
+                <div class="widget--toc">
+                    <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#upgrade-dulu-termux-kesayangan-anda">Upgrade dulu termux kesayangan anda</a></li>
+      </ol>
+    </li>
+    <li><a href="#--loading-">=======================  Loading&hellip; =======================</a></li>
+    <li><a href="#set-highest-priority-for-ruby-package-from-gushmazuko-repository">Set highest priority for ruby package from gushmazuko repository</a></li>
+  </ol>
+</nav>
+                </div>
+            </section>
+        </aside>
+    
+
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.5/dist/vibrant.min.js"integrity="sha256-5NovOZc4iwiAWTYIFiIM7DxKUXKWvpVEuMEPLzcm5/g="crossorigin="anonymous"
+                defer="false"
+                >
+            </script><script type="text/javascript" src="/blog/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

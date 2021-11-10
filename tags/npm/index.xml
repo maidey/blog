@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>npm on Hack&#39;s jurnal</title>
+    <link>https://maidey.github.io/blog/tags/npm/</link>
+    <description>Recent content in npm on Hack&#39;s jurnal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maidey.github.io/blog/tags/npm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cara install npm di termux</title>
+      <link>https://maidey.github.io/blog/artikel/cara-install-npm-di-termux/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/artikel/cara-install-npm-di-termux/</guid>
+      <description>Apa itu npm npm adalah manajer package default untuk lingkungan runtime JavaScript Node.js. Ini terdiri dari command line client, juga disebut npm, dan database online package publik dan pribadi berbayar, yang disebut registri npm. Registri diakses melalui klien, dan package yang tersedia dapat diakses dan dicari melalui situs web npm. Manajer package dan registri dikelola oleh npm, Inc.
+Pendapat saya npm ini sangat penting, kenapa saya sebut npm ini sangat penting?</description>
+    </item>
+    
+  </channel>
+</rss>

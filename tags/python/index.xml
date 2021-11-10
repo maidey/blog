@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Hack&#39;s jurnal</title>
+    <link>https://maidey.github.io/blog/tags/python/</link>
+    <description>Recent content in python on Hack&#39;s jurnal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maidey.github.io/blog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>install Python</title>
+      <link>https://maidey.github.io/blog/termux/install-python/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/termux/install-python/</guid>
+      <description>Jangan lupa bergabung dengan channel telegram, klik DISINI atau hacks_jurnal
+$ apt update &amp;amp;&amp;amp; apt upgrade $ pkg i python python2 python2 </description>
+    </item>
+    
+  </channel>
+</rss>

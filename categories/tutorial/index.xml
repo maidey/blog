@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Hack&#39;s jurnal</title>
+    <link>https://maidey.github.io/blog/categories/tutorial/</link>
+    <description>Recent content in Tutorial on Hack&#39;s jurnal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maidey.github.io/blog/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cara menggunakan metasploit</title>
+      <link>https://maidey.github.io/blog/artikel/cara-menggunakan-metasploit/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/artikel/cara-menggunakan-metasploit/</guid>
+      <description>Jangan lupa bergabung dengan channel telegram, klik DISINI atau @hacks_jurnal
+Artikel sebelumnya:
+ cara menginstal metasploit
+ Melanjutkan artikel yang tadi , sekarang kita belajar menggunakan metasploit.
+Sebelum melanjutkan ada beberapa hal yang harus Anda ketahui untuk menjadikan metasploit.
+ IP Anda , cari tau disini &amp;gt; IP saya Lokal Port (4.4.4.4 #recommend)  Menggunakan  pastikan Anda sudah setup storage dengan perintah termux-setup-storage
+  Ganti NAMA terserah apa yang Anda suka.</description>
+    </item>
+    
+    <item>
+      <title>cara menginstal metasploit</title>
+      <link>https://maidey.github.io/blog/artikel/cara-menginstal-metasploit/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/artikel/cara-menginstal-metasploit/</guid>
+      <description>Jangan lupa bergabung dengan channel telegram, klik DISINI atau @hacks_jurnal
+Beberapa waktu yang lalu banyak sekali yang request Di telegram💬 untuk cara install metasploit dan menggunakannya. BTW kalau anda mau request silahkan hubungi telegram kita @mogionc https://t.me/Mogionc
+Saya akan membagi ini menjadi 2(dua) artikel , pertama artikel untuk cara menginstal dan yang kedua cara untuk menggunakannya.
+Tanpa banyak basa-basi saya mulai saja tutorialnya, silahkan ikuti langkah-langkah dibawah ini⬇️.
+install metaspl☢️it Upgrade dulu termux kesayangan anda pkg update &amp;amp;&amp;amp; pkg upgrade -y Lalu install pemeran utamanya:</description>
+    </item>
+    
+    <item>
+      <title>cara install oh my zsh Dan oh my fish</title>
+      <link>https://maidey.github.io/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/</guid>
+      <description>Sebelum melanjutkan saya akan memberitahu urutan isi dari artikel ini. Jangan lupa bergabung dengan channel telegram, klik DISINI atau @termux_shortcut
+Isi artikel  apa itu oh my zsh/fish pendapat saya pemasangan  oh my zsh oh my fish    apa itu oh my zsh fish oh my zsh adalah kerangka kerja open source dan berbasis komunitas untuk mengelola konfigurasi Zsh Anda.
+oh my fish adalah shell baris perintah yang cerdas dan ramah pengguna untuk Linux, macOS, dan keluarga lainnya.</description>
+    </item>
+    
+    <item>
+      <title>pasang Arch di termux</title>
+      <link>https://maidey.github.io/blog/artikel/pasang-arch-di-termux/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/artikel/pasang-arch-di-termux/</guid>
+      <description>Sebelum melanjutkan saya akan memberitahu urutan isi dari artikel ini.
+ Penjelasan apa itu Arch pendapat saya tentang Arch cara instalasi - cari install metode 1 - cari install metode 2 - cari install metode 3 Perintah setelah penginstalan Perintah dasar  apa itu Arch Linux Menurut Wikipedia Arch Linux (dikenal juga dengan ArchLinux atau Arch) adalah sebuah distribusi Linux untuk komputer x86_64 (64 bit) yang didesain untuk menjadi ringan dan sederhana.</description>
+    </item>
+    
+    <item>
+      <title>cara install npm di termux</title>
+      <link>https://maidey.github.io/blog/artikel/cara-install-npm-di-termux/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/artikel/cara-install-npm-di-termux/</guid>
+      <description>Apa itu npm npm adalah manajer package default untuk lingkungan runtime JavaScript Node.js. Ini terdiri dari command line client, juga disebut npm, dan database online package publik dan pribadi berbayar, yang disebut registri npm. Registri diakses melalui klien, dan package yang tersedia dapat diakses dan dicari melalui situs web npm. Manajer package dan registri dikelola oleh npm, Inc.
+Pendapat saya npm ini sangat penting, kenapa saya sebut npm ini sangat penting?</description>
+    </item>
+    
+  </channel>
+</rss>

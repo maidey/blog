@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>acrh on Hack&#39;s jurnal</title>
+    <link>https://maidey.github.io/blog/tags/acrh/</link>
+    <description>Recent content in acrh on Hack&#39;s jurnal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maidey.github.io/blog/tags/acrh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pasang Arch di termux</title>
+      <link>https://maidey.github.io/blog/artikel/pasang-arch-di-termux/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/artikel/pasang-arch-di-termux/</guid>
+      <description>Sebelum melanjutkan saya akan memberitahu urutan isi dari artikel ini.
+ Penjelasan apa itu Arch pendapat saya tentang Arch cara instalasi - cari install metode 1 - cari install metode 2 - cari install metode 3 Perintah setelah penginstalan Perintah dasar  apa itu Arch Linux Menurut Wikipedia Arch Linux (dikenal juga dengan ArchLinux atau Arch) adalah sebuah distribusi Linux untuk komputer x86_64 (64 bit) yang didesain untuk menjadi ringan dan sederhana.</description>
+    </item>
+    
+  </channel>
+</rss>

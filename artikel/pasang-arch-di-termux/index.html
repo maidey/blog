@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head><meta charset='utf-8'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1432808943308399"
+     crossorigin="anonymous"></script>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='tutorial lengkap cara pemasangan dan cara penggunaan Arch di termux'><title>pasang Arch di termux</title>
+
+<link rel='canonical' href='https://maidey.github.io/blog/artikel/pasang-arch-di-termux/'>
+
+<link rel="stylesheet" href="/blog/scss/style.min.css">
+<meta property='og:title' content='pasang Arch di termux'>
+<meta property='og:description' content='tutorial lengkap cara pemasangan dan cara penggunaan Arch di termux'>
+<meta property='og:url' content='https://maidey.github.io/blog/artikel/pasang-arch-di-termux/'>
+<meta property='og:site_name' content='Hack&#39;s jurnal'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='acrh' /><meta property='article:tag' content='termux' /><meta property='article:published_time' content='2021-10-09T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2021-10-09T00:00:00&#43;00:00'/><meta property='og:image' content='https://maidey.github.io/blog/artikel/pasang-arch-di-termux/20211009_111549.jpg' />
+<meta name="twitter:title" content="pasang Arch di termux">
+<meta name="twitter:description" content="tutorial lengkap cara pemasangan dan cara penggunaan Arch di termux"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://maidey.github.io/blog/artikel/pasang-arch-di-termux/20211009_111549.jpg' />
+    <link rel="shortcut icon" href="img/fav.ico" />
+<link rel="alternate" type="application/rss+xml" href="https://maidey.github.io/index.xml" title="hack's">
+
+
+    </head>
+    <body class="
+    article-page has-toc
+">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex 
+    
+        extended
+    
+">
+    
+        <div id="article-toolbar">
+            <a href="https://maidey.github.io/blog" class="back-home">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="15 6 9 12 15 18" />
+</svg>
+
+
+
+                <span>Kembali</span>
+            </a>
+        </div>
+    
+<main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/blog/artikel/pasang-arch-di-termux/">
+                <img src="/blog/artikel/pasang-arch-di-termux/20211009_111549_hu0f81677ca53754b440b5703bcb9bd355_484128_800x0_resize_q75_box.jpg"
+                        srcset="/blog/artikel/pasang-arch-di-termux/20211009_111549_hu0f81677ca53754b440b5703bcb9bd355_484128_800x0_resize_q75_box.jpg 800w, /blog/artikel/pasang-arch-di-termux/20211009_111549_hu0f81677ca53754b440b5703bcb9bd355_484128_1600x0_resize_q75_box.jpg 1600w"
+                        width="800" 
+                        height="450" 
+                        loading="lazy"
+                        alt="Featured image of post pasang Arch di termux" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/blog/categories/tutorial/" >
+                Tutorial
+            </a>
+        
+    </header>
+    
+
+    <h2 class="article-title">
+        <a href="/blog/artikel/pasang-arch-di-termux/">pasang Arch di termux</a>
+    </h2>
+
+    
+    <h3 class="article-subtitle">
+        tutorial lengkap cara pemasangan dan cara penggunaan Arch di termux
+    </h3>
+    
+
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Oct 09, 2021</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    Waktu Membaca: 2 menit
+                </time>
+            </div>
+        
+    </footer>
+    
+</div>
+</header>
+
+    <section class="article-content">
+    <p>Sebelum melanjutkan saya akan memberitahu urutan isi dari artikel ini.</p>
+<ol>
+<li>Penjelasan apa itu Arch</li>
+<li>pendapat saya tentang Arch</li>
+<li>cara instalasi
+- cari install metode 1
+- cari install metode 2
+- cari install metode 3</li>
+<li>Perintah setelah penginstalan</li>
+<li>Perintah dasar</li>
+</ol>
+<h2 id="apa-itu-arch-linux">apa itu Arch Linux</h2>
+<p>Menurut <strong>Wikipedia</strong> Arch Linux (dikenal juga dengan ArchLinux atau Arch) adalah sebuah distribusi Linux untuk komputer x86_64 (64 bit) yang didesain untuk menjadi ringan dan sederhana.</p>
+<p>Pendekatan desain pengembang distro ini berfokus pada kesederhanaan, kebenaran program dan minimalisme. &ldquo;Kesederhanaan&rdquo; didefinisikan sebagai &ldquo;tak perlu tambahan, modifikasi, atau komplikasi&rdquo; sesuai sudut pandang pengembangnya, bukan sudut pandang pengguna.</p>
+<p>Arch Linux adalah sebuah distribusi Linux berbasis biner, yang artinya, paket-paket aplikasi didistribusikan dalam bentuk telah terkompilasi. Berbeda dengan Gentoo yang mendistribusikan paket-paketnya dalam bentuk kode sumber.</p>
+<h2 id="pendapat-saya-tentang-arch">pendapat saya tentang Arch</h2>
+<p>Menurut saya Arch Linux sangat bagus, apa lagi Arch Linux mempunyai banyak sekali tool, dan pemasangan nya pun sangat mudah ,  ukuran file yang akan di download sebesar <strong>590 MB</strong> dan setelah proses instalasi Arch ukuran data termux akan menjadi <strong>1,10 GB</strong> .</p>
+<h2 id="cara-install">cara install</h2>
+<blockquote>
+<p>ada 3 cara Anda dapat memilih cara mana yang Anda suka.</p>
+</blockquote>
+<p>sebelumnya anda harus menyiapkan storage :</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">
+
+termux-setup-storage
+
+
+</code></pre></div><h3 id="cara-pertama">cara pertama</h3>
+<p>Metode ini dapat dijalankan dengan mengetuk <strong><a class="link" href="https://sdrausty.github.io/TermuxArch/setupTermuxArch.sh"  target="_blank" rel="noopener"
+    >tautan ini</a></strong> yang harus diunduh setupTermuxArch.sh ke <code>~/storage/downloads/</code>direktori Anda di ponsel cerdas dan tablet Anda. Jika mengetuk pendek tautan ini tidak mengunduh <a class="link" href="https://sdrausty.github.io/TermuxArch/setupTermuxArch.sh"  target="_blank" rel="noopener"
+    >setupTermuxArch.sh</a> dari browser web Anda, coba ketuk lama dan pilih unduh file dari menu popup. Instal Arch Linux di Termux PROot hanya dengan menjalankan baris kode berikutnya di Termux:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">
+
+bash ~/storage/downloads/setupTermuxArch.sh
+
+
+</code></pre></div><h3 id="cara-kedua">cara kedua</h3>
+<p>Jalankan baris perintah berikut di bash untuk menginstal Arch Linux di Termux pada perangkat Anda. Jalankan setiap baris perintah berikut secara terpisah. Menjalankan semuanya sekaligus dapat menghasilkan kesalahan; Petunjuk, salin dan tempel berikut ini ke jendela Termux:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">
+<span style="color:#75715e">#install git</span>
+pkg install git
+
+<span style="color:#75715e">#download script</span>
+cd <span style="color:#f92672">&amp;&amp;</span> git clone https://github.com/sdrausty/TermuxArch
+
+<span style="color:#75715e">#install script</span>
+bash TermuxArch/setupTermuxArch.sh
+
+
+</code></pre></div><h3 id="cara-ketiga">cara ketiga</h3>
+<p>Salin dan tempel baris perintah berikut ke shell perintah bash Termux Anda:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">
+<span style="color:#75715e">#install wget</span>
+pkg install wget
+
+<span style="color:#75715e">#download script</span>
+wget https://sdrausty.github.io/TermuxArch/setupTermuxArch.sh
+
+<span style="color:#75715e">#install script</span>
+bash setupTermuxArch.sh
+
+
+</code></pre></div><h3 id="perintah-setelah-penginstalan">perintah setelah penginstalan</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">
+
+pacman -S neofetch
+pacman -S fish
+
+
+Nano .bashrc
+
+</code></pre></div><p>Tempel kan script ini di line paling bawah.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">
+
+<span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -f /usr/bin/neofetch <span style="color:#f92672">]</span>
+<span style="color:#66d9ef">then</span>
+        neofetch
+        fish
+<span style="color:#66d9ef">fi</span>
+
+
+</code></pre></div><p><figure 
+	
+		class="gallery-image" 
+		style="
+			flex-grow: 86; 
+			flex-basis: 206px"
+	>
+	<a href="/blog/artikel/pasang-arch-di-termux/Screenshot_2021_1009_110234.png" data-size="719x834">
+		<img src="/blog/artikel/pasang-arch-di-termux/Screenshot_2021_1009_110234.png"
+			width="719"
+			height="834"
+			srcset="/blog/artikel/pasang-arch-di-termux/Screenshot_2021_1009_110234_hu8b3eab5cd20cb4107ef2c2f71455f2c4_91129_480x0_resize_box_3.png 480w, /blog/artikel/pasang-arch-di-termux/Screenshot_2021_1009_110234_hu8b3eab5cd20cb4107ef2c2f71455f2c4_91129_1024x0_resize_box_3.png 1024w"
+			loading="lazy"
+			alt="seperti ini">
+	</a>
+	
+	<figcaption>seperti ini</figcaption>
+	
+</figure></p>
+<p><code>ctrl+x</code> &raquo; <code>y</code> &raquo; <code>enter</code></p>
+<p>Keluar dan masuk lagi ke termux</p>
+<h3 id="perintah-dasar">perintah dasar</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">
+
+pacman -Ss &lt;nama tool&gt; <span style="color:#75715e">#ini untuk mencari tool</span>
+pacman -S &lt;nama tool&gt; <span style="color:#75715e">#ini untuk meng-install tool</span>
+pacman -Syu <span style="color:#75715e">#ini untuk  meng-upgrade</span>
+
+
+</code></pre></div>
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/blog/tags/acrh/">acrh</a>
+        
+            <a href="/blog/tags/termux/">termux</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under HACK&rsquo;S BY NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+        <link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css"integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn"crossorigin="anonymous"
+            ><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js"integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8"crossorigin="anonymous"
+                defer="true"
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js"integrity="sha384-vZTG03m&#43;2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl"crossorigin="anonymous"
+                defer="true"
+                >
+            </script><script>
+    window.addEventListener("DOMContentLoaded", () => {
+        renderMathInElement(document.querySelector(`.article-content`), {
+            delimiters: [
+                { left: "$$", right: "$$", display: true },
+                { left: "$", right: "$", display: false },
+                { left: "\\(", right: "\\)", display: false },
+                { left: "\\[", right: "\\]", display: true }
+            ]
+        });})
+</script>
+    
+</article>
+
+    <aside class="related-contents--wrapper">
+    
+    
+        <h2 class="section-title">Konten terkait</h2>
+        <div class="related-contents">
+            <div class="flex article-list--tile">
+                
+                    
+<article class="has-image">
+    <a href="/blog/artikel/cara-menggunakan-metasploit/">
+        
+        
+            <div class="article-image">
+                <img src="/blog/artikel/cara-menggunakan-metasploit/20211015_204102.0c183aae89de694302a396cfa887d32a_hu0f81677ca53754b440b5703bcb9bd355_238353_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-DBg6roneaUMCo5bPqIfTKg==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">cara menggunakan metasploit</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="/blog/artikel/cara-menginstal-metasploit/">
+        
+        
+            <div class="article-image">
+                <img src="/blog/artikel/cara-menginstal-metasploit/20211015_203930.4561244c93d455038ae6b23b1b23828d_hu0f81677ca53754b440b5703bcb9bd355_223946_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-RWEkTJPUVQOK5rI7GyOCjQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">cara menginstal metasploit</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/">
+        
+        
+            <div class="article-image">
+                <img src="/blog/artikel/cara-install-oh-my-zsh-dan-oh-my-fish/20211011_002237.7646cc4299bbfaca99c52b1b58c8af51_hud9e9e7d64f2e08e3c08c37813584cc49_763989_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-dkbMQpm7&#43;sqZxSsbWMivUQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">cara install oh my zsh Dan oh my fish</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="/blog/artikel/cara-install-npm-di-termux/">
+        
+        
+            <div class="article-image">
+                <img src="/blog/artikel/cara-install-npm-di-termux/20211007_205809.cf857b782b4b1b092350e7e00bcca794_hu0f81677ca53754b440b5703bcb9bd355_111646_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-z4V7eCtLGwkjUOfgC8ynlA==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">cara install npm di termux</h2>
+        </div>
+    </a>
+</article>
+                
+            </div>
+        </div>
+    
+</aside>
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hacks-jurnal" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (DISQUS) {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2020 - 
+        
+        2021 Hack&#39;s jurnal
+    </section>
+    
+    <section class="powerby">
+        Dibangun dengan <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Tema <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.2.0">Stack</a></b> dirancang oleh <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer="true"
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer="true"
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.css"integrity="sha256-c0uckgykQ9v5k&#43;IqViZOZKc47Jn7KQil4/MP3ySA3F8="crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.css"integrity="sha256-SBLU4vv6CA6lHsZ1XyTdhyjJxCjPif/TRkjnsyGAGnE="crossorigin="anonymous"
+            >
+
+            </main>
+    
+        <aside class="sidebar right-sidebar sticky">
+            <section class="widget archives">
+                <div class="widget-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                </div>
+                <h2 class="widget-title section-title">Daftar Isi</h2>
+                
+                <div class="widget--toc">
+                    <nav id="TableOfContents">
+  <ol>
+    <li><a href="#apa-itu-arch-linux">apa itu Arch Linux</a></li>
+    <li><a href="#pendapat-saya-tentang-arch">pendapat saya tentang Arch</a></li>
+    <li><a href="#cara-install">cara install</a>
+      <ol>
+        <li><a href="#cara-pertama">cara pertama</a></li>
+        <li><a href="#cara-kedua">cara kedua</a></li>
+        <li><a href="#cara-ketiga">cara ketiga</a></li>
+        <li><a href="#perintah-setelah-penginstalan">perintah setelah penginstalan</a></li>
+        <li><a href="#perintah-dasar">perintah dasar</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+                </div>
+            </section>
+        </aside>
+    
+
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.5/dist/vibrant.min.js"integrity="sha256-5NovOZc4iwiAWTYIFiIM7DxKUXKWvpVEuMEPLzcm5/g="crossorigin="anonymous"
+                defer="false"
+                >
+            </script><script type="text/javascript" src="/blog/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
